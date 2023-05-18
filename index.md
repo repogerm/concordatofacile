@@ -1,4 +1,4 @@
-# Documentazione Tecnica - ConcordatoFacile
+# Knowledge Base - ConcordatoFacile
 
 ## 1. Ricezione Della Richiesta (Foglio "Archivio Richieste")
 
