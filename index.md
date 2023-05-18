@@ -1,5 +1,13 @@
 # Knowledge Base - ConcordatoFacile
 
+## Guida Passo-Passo alla Gestione dei Contratti di Locazione a Canone Concordato 
+
+Questa soluzione per la gestione dei contratti di locazione a canone concordato è stata progettata per automatizzare e semplificare il lavoro delle associazioni di categoria, quali associazioni di proprietari o di inquilini. Questo documento fornisce una dettagliata simulazione del processo, guidandoti attraverso ciascuna sezione del foglio di calcolo.
+
+Non preoccuparti se non hai una forte competenza tecnica: questa guida è stata progettata per essere chiara e facilmente comprensibile. Seguendo passo-passo le istruzioni, sarai in grado di gestire con successo i contratti di locazione a canone concordato per la tua associazione.
+
+Ricorda, la chiave per un'efficiente gestione dei contratti è la precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio per garantire il corretto funzionamento del sistema.
+
 ## 1. Ricezione Della Richiesta (Foglio "Archivio Richieste")
 
 Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
