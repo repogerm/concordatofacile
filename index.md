@@ -13,7 +13,7 @@ Per ogni modulo, ci sono due colonne principali:
 
 Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, è possibile controllare tutti i dati inseriti dagli utenti. Se vengono individuati errori, questi vengono segnalati nelle colonne colorate in giallo. È possibile tornare al foglio "Archivio richieste" e correggere i dati se necessario.
 
-Inoltre, in questo foglio avvengono i calcoli che verranno poi utilizzati per l'asseverazione e l'allegato H. Per attivare questi calcoli, è necessario attivare i calcoli iterativi, come mostrato negli screenshots forniti.
+Inoltre, in questo foglio avvengono i calcoli che verranno poi utilizzati per l'asseverazione e l'allegato H. Per effettuare questi calcoli, è necessario attivare i calcoli iterativi, come mostrato negli screenshots forniti.
 
 ## 3. Registrazione di un Nuovo Membro (Foglio "Gestione Anagrafiche")
 
@@ -25,7 +25,7 @@ In questo foglio, è possibile registrare e tracciare lo stato delle iscrizioni 
 
 Una volta registrato il membro, torna al foglio "Richiesta in Elaborazione", attiva i calcoli iterativi, e attendi che appaia "si" nella cella sotto a "Procedere con DocMerge?". 
 
-Quando compare "si", clicca su "Link a DocMerge", come indicato negli screenshot. Seguendo le istruzioni fornite negli screenshot, completa il template DocMerge per generare automaticamente i documenti richiesti.
+Quando compare "si", clicca su "Link a DocMerge", come indicato negli screenshot. Segui le istruzioni fornite negli screenshot per generare automaticamente i documenti richiesti.
 
 ## 5. Salvataggio e Registrazione del Contratto (Foglio "Archivio Contratti - YAMM")
 
@@ -35,4 +35,4 @@ Una volta generati i documenti, salvali nella cartella desiderata. Poi, registra
 
 Infine, il foglio "Contratti in Scadenza" contiene tutti i contratti che scadranno nei prossimi 30 giorni, per permettere una tempestiva notifica agli associati. 
 
-Il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti. Utilizza le formule fornite per generare automaticamente queste statistiche.
+Il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti.
