@@ -33,6 +33,6 @@ Una volta generati i documenti, salvali nella cartella desiderata. Poi, registra
 
 ## 6. Monitoraggio dei Contratti (Foglio "Contratti in Scadenza" e "Pannello di Controllo")
 
-Infine, il foglio "Contratti in Scadenza" contiene tutti i contratti che scadranno nei prossimi 30 giorni, per permettere una tempestiva notifica agli associati. 
+Il foglio "Contratti in Scadenza" contiene tutti i contratti che scadranno nei prossimi 30 giorni, per permettere una tempestiva notifica agli associati. 
 
-Il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti.
+Infine, il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti.
