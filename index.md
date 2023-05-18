@@ -1,39 +1,38 @@
-# Documentazione del Sistema ConcordatoFacile
-## Introduzione
-ConcordatoFacile è un'applicazione informatica progettata per automatizzare la gestione dei contratti di locazione a canone concordato. Questa infrastruttura si basa su Google Sheets e si compone di diversi fogli di calcolo. Questa documentazione fornisce una descrizione dettagliata del funzionamento del sistema, per aiutarti a capire come gestire efficacemente i tuoi contratti.
+# Documentazione Tecnica - Gestione Contratti di Locazione a Canone Concordato
 
-## Foglio 'Archivio Richieste'
-Questo foglio contiene i dati provenienti dai moduli JotForm. Ogni modulo ricevuto corrisponde a una riga in questo foglio di calcolo, e le informazioni inserite nel modulo sono suddivise nelle colonne. Ciascuna riga possiede due colonne chiamate "note" e "completata?", nelle quali si possono inserire eventuali note relative al modulo ricevuto e indicare lo stato di completamento della richiesta, specificando "sì" o "no" nella colonna "completata?". È possibile modificare i dati inseriti nel modulo in caso di errori o cambiamenti da parte del mittente.
+## 1. Ricezione Della Richiesta (Foglio "Archivio Richieste")
 
-## Foglio 'Richieste da Elaborare'
-Questo foglio contiene tutte le richieste presenti nell' 'Archivio Richieste' che non sono state contrassegnate come completate. Serve a dare un'occhiata rapida alle richieste non ancora elaborate. La richiesta evidenziata in giallo, che trovi alla prima riga del foglio, è quella attualmente in elaborazione.
+Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
-## Foglio 'Richiesta in Elaborazione'
-Questo foglio presenta un'interfaccia che permette di visualizzare chiaramente tutti i dati della richiesta proveniente da JotForm. Offre la possibilità di intervenire sul foglio 'Archivio Richieste' attraverso delle colonne gialle, usate per segnalare eventuali errori nei dati inseriti dai richiedenti. Questo è il foglio in cui avvengono i calcoli necessari per compilare l'allegato H, assicurando che tutto sia conforme agli accordi territoriali vigenti.
+Per ogni modulo, ci sono due colonne principali: 
 
-Per avviare i calcoli che verranno poi trascritti nell'allegato H, segui le istruzioni nel seguente video:
-[video]
+- "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro. 
+- "Note" (Colonna B): questa colonna è destinata a contenere eventuali note o commenti relativi al modulo JotForm.
 
-Una volta completati i calcoli, nella cella immediatamente a destra di "procedere con docmerge?" verrà visualizzato "SI". A questo punto, dovrai aprire il template che sarà compilato con i dati elaborati da ConcordatoFacile. Per farlo, ti basterà cliccare sulla cella con scritto "docmerge".
+## 2. Controllo Della Richiesta (Foglio "Richiesta in Elaborazione")
 
-Una volta aperto il template, per avviare il trasferimento di questi dati segui le istruzioni nel seguente video:
-[video]
+Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, è possibile controllare tutti i dati inseriti dagli utenti. Se vengono individuati errori, questi vengono segnalati nelle colonne colorate in giallo. È possibile tornare al foglio "Archivio richieste" e correggere i dati se necessario.
 
-## Gestione Anagrafiche
-Se nella sezione "dati delle parti" del foglio "richiesta in elaborazione" ottieni "Errore, membro non iscritto all'associazione" nella colonna gialla, significa che il membro che richiede assistenza per il contratto di locazione a canone concordato non risulta iscritto alla tua associazione. Per risolvere questo problema, vai nel foglio "Gestione Anagrafiche" e segui le istruzioni nel
+Inoltre, in questo foglio avvengono i calcoli che verranno poi utilizzati per l'asseverazione e l'allegato H. Per attivare questi calcoli, è necessario attivare i calcoli iterativi, come mostrato negli screenshots forniti.
 
- seguente video:
-[video]
+## 3. Registrazione di un Nuovo Membro (Foglio "Gestione Anagrafiche")
 
-## Archivio Contratti
-Ogni volta che elabori una richiesta, procedi al foglio "Archivio Contratti" e segui le istruzioni indicate nel video qui sotto per registrare il lavoro appena svolto e annotare la data di decorrenza e di scadenza del contratto di locazione. Questo ti permetterà di notificare le parti coinvolte quando il contratto sarà in procinto di scadere:
-[video]
+Se la richiesta di assistenza proviene da un utente non iscritto all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione". In questo caso, è necessario passare al foglio "Gestione Anagrafiche".
 
-## Contratti in Scadenza
-Nel foglio "Contratti in Scadenza", è possibile visualizzare tutti i contratti che scadranno nei prossimi 30 giorni.
+In questo foglio, è possibile registrare e tracciare lo stato delle iscrizioni di tutti i membri che fanno parte della tua associazione. Per registrare un nuovo membro, segui i passaggi indicati negli screenshots forniti.
 
-## Pannello di Controllo
-Il foglio "Pannello di Controllo" contiene una serie di informazioni utili per la gestione dei contratti, come l'ID dei membri e dei contratti, il numero delle richieste da elaborare, il conteggio delle iscrizioni attive, scadute o con errori, e il totale dei contratti in scadenza.
+## 4. Generazione del Contratto (Foglio "Richiesta in Elaborazione" e "DocMerge")
 
-# Conclusione
-ConcordatoFacile è un sistema completo e altamente automatizzato, progettato per semplificare la gestione dei contratti di locazione a canone concordato. Tramite l'uso di Google Sheets e JotForm, offre una soluzione efficiente per la raccolta, l'elaborazione e la registrazione dei dati contrattuali. Ricordati di consultare i video inclusi in questa guida per una comprensione più dettagliata delle funzionalità di ogni foglio di calcolo. Con queste risorse a tua disposizione, gestire i tuoi contratti diventerà un compito facile e intuitivo.
+Una volta registrato il membro, torna al foglio "Richiesta in Elaborazione", attiva i calcoli iterativi, e attendi che appaia "si" nella cella sotto a "Procedere con DocMerge?". 
+
+Quando compare "si", clicca su "Link a DocMerge", come indicato negli screenshot. Seguendo le istruzioni fornite negli screenshot, completa il template DocMerge per generare automaticamente i documenti richiesti.
+
+## 5. Salvataggio e Registrazione del Contratto (Foglio "Archivio Contratti - YAMM")
+
+Una volta generati i documenti, salvali nella cartella desiderata. Poi, registra il contratto appena generato nel foglio "Archivio Contratti - YAMM", seguendo i passaggi indicati negli screenshots.
+
+## 6. Monitoraggio dei Contratti (Foglio "Contratti in Scadenza" e "Pannello di Controllo")
+
+Infine, il foglio "Contratti in Scadenza" contiene tutti i contratti che scadranno nei prossimi 30 giorni, per permettere una tempestiva notifica agli associati. 
+
+Il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti. Utilizza le formule fornite per generare automaticamente queste statistiche.
