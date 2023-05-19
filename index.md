@@ -16,7 +16,6 @@ Quando un utente invia una richiesta tramite JotForm, queste informazioni vengon
 |:--:|:--:|
 | Inserimento dei dati nell'interfaccia di JotForm | Messaggio di errore nel modulo JotForm |
 
-
 Per ogni modulo, ci sono due colonne principali: 
 
 - "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro. 
