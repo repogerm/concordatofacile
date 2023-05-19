@@ -12,6 +12,11 @@ Ricorda, la chiave per un'efficiente gestione dei contratti è la precisione. As
 
 Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
+![]([image URL](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%201.png))
+
+
+![](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%204.png)
+
 Per ogni modulo, ci sono due colonne principali: 
 
 - "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro. 
