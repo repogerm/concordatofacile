@@ -12,11 +12,16 @@ Ricorda, la chiave per un'efficiente gestione dei contratti è la precisione. As
 
 Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
-<img src="https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%201.png" alt="Alt Text" width="300" align="left" />
-Inserimento dei dati nell'interfaccia di JotForm
+<figure>
+  <img src="https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%201.png" alt="Alt Text" width="300" align="left" />
+  <figcaption>Inserimento dei dati nell'interfaccia di JotForm</figcaption>
+</figure>
 
-<img src="https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%204.png" alt="Alt Text" width="300" align="left" />
-Messaggio di errore nel modulo JotForm
+<figure>
+  <img src="https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%204.png" alt="Alt Text" width="300" align="left" />
+  <figcaption>Messaggio di errore nel modulo JotForm</figcaption>
+</figure>
+
 
 Per ogni modulo, ci sono due colonne principali: 
 
