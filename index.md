@@ -1,4 +1,4 @@
-# Knowledge Base - ConcordatoFacile
+# ConcordatoFacile
 
 ## Guida Passo-Passo alla Gestione dei Contratti di Locazione a Canone Concordato 
 
