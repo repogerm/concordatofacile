@@ -4,7 +4,7 @@ ConcordatoFacile è un efficace soluzione che facilita la gestione dei contratti
 
 Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata progettata per essere chiara e comprensibile anche per gli utenti meno esperti.
 
-> 🎯 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
+> 🎯 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio elettronico e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
 ## Indice
 
