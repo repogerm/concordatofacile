@@ -27,7 +27,7 @@ Una volta che un utente sottomette una richiesta tramite JotForm, le informazion
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
-| **Occhiata al foglio "Archivio richieste"** |
+| **Panoramica del foglio "Archivio richieste"** |
 
 Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui devi prestare attenzione:
 
