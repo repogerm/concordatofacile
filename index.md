@@ -1,6 +1,6 @@
-## Guida Passo-Passo alla Gestione dei Contratti di Locazione a Canone Concordato 
+## ConcordatoFacile
 
-Questa soluzione per la gestione dei contratti di locazione a canone concordato è stata progettata per automatizzare e semplificare il lavoro delle associazioni di categoria, quali associazioni di proprietari o di inquilini. Questo documento fornisce una dettagliata simulazione del processo, guidandoti attraverso ciascuna sezione del foglio di calcolo.
+ConcordatoFacile è stato progettato per automatizzare e semplificare il lavoro delle associazioni di categoria, quali associazioni di proprietari o di inquilini. Questo documento fornisce una dettagliata simulazione del processo, guidandoti attraverso ciascuna sezione del foglio di calcolo.
 
 Non preoccuparti se non hai una forte competenza tecnica: questa guida è stata progettata per essere chiara e facilmente comprensibile. Seguendo passo-passo le istruzioni, sarai in grado di gestire con successo i contratti di locazione a canone concordato per la tua associazione.
 
