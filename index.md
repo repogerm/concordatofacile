@@ -29,22 +29,20 @@ Una volta che un utente sottomette una richiesta tramite JotForm, le informazion
 |:--:|
 | **Occhiata al foglio "Archivio richieste"** |
 
-Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui dovresti prestare attenzione:
+Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui devi prestare attenzione:
 
 - "Completata?" (Colonna A): Se immetti "sì" in questa cella, il modulo JotForm associato viene ritenuto gestito e quindi rimosso dalla lista delle attività in sospeso.
-- "Note" (Colonna B): Questa colonna è designata per contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il posto perfetto per registrare dettagli aggiuntivi, richiedere chiarimenti o lasciare dei promemoria.
+- "Note" (Colonna B): Questa colonna è designata per contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il posto perfetto per registrare dettagli aggiuntivi o lasciare dei promemoria.
 
-Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai finito di gestire un modulo e non sono necessarie ulteriori azioni, dovresti scrivere "sì" in questa cella. Questo indica che la richiesta è stata completamente trattata e la rimuove dalla lista delle attività pendenti. Se, invece, un modulo richiede ancora attenzione, lascia questa cella vuota o scrivi "no".
+Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai finito di gestire un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Questo indica che la richiesta è stata completamente trattata e la rimuove dalla lista delle attività pendenti. Se, invece, un modulo richiede ancora attenzione, lascia questa cella vuota.
 
 > 💡 Ricorda: L'aggiornamento dello stato di "Completata?" dovrebbe avvenire solo quando sei assolutamente sicuro che una richiesta sia stata completamente gestita.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
 |:--:|
-| **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente a zero** |
+| **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
 
-Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di
-
- tornare per correggere o modificare i dati se l'utente ha commesso errori o ha cambiato idea.
+Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli se l'utente ha commesso errori o ha cambiato idea.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 |:--:|
@@ -52,7 +50,7 @@ Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automat
 
 ### Pronti a Procedere?
 
-Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per completare in modo efficace e accurato la gestione delle richieste.
+Fino a questo punto, abbiamo esaminato come si riceve una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo efficace e accurato.
 
 ## Controllo Della Richiesta
 
