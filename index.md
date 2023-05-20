@@ -20,16 +20,16 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 
 Prima di immergerti nei dettagli del processo, diamo uno sguardo a come appare il modulo JotForm, attraverso il quale gli utenti inviano le richieste. Di seguito trovi due schermate del modulo:
 
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%201.png) | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%204.png) |
-|:--:|:--:|
-| Inserimento dei dati nell'interfaccia di JotForm | Messaggio di errore nel modulo JotForm |
+
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-29-43%20PM.gif) |
+|:--:|
+| Panoramica del modulo JotForm |
 
 Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/Google%20Workflow%20-%20Step%202.png) | 
 |:--:|
 | Panoramica del foglio "Archivio richieste" |
-
 
 Sul foglio "Archivio richieste", ci sono due colonne principali a cui dovresti prestare particolare attenzione:
 
