@@ -1,48 +1,85 @@
-## ConcordatoFacile
+# ConcordatoFacile: Una Guida Completa
 
-ConcordatoFacile è stato progettato per automatizzare e semplificare il lavoro delle associazioni di categoria, quali associazioni di proprietari o di inquilini. Questo documento fornisce una dettagliata simulazione del processo, guidandoti attraverso ciascuna sezione del foglio di calcolo.
+ConcordatoFacile è un efficace strumento che facilita la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa guida ti guiderà passo per passo nel processo, assicurandoti una facile navigazione attraverso ogni sezione dell'applicazione.
 
-Non preoccuparti se non hai una forte competenza tecnica: questa guida è stata progettata per essere chiara e facilmente comprensibile. Seguendo passo-passo le istruzioni, sarai in grado di gestire con successo i contratti di locazione a canone concordato per la tua associazione.
+Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata progettata per essere chiara e comprensibile anche per gli utenti meno esperti.
 
-Ricorda, la chiave per un'efficiente gestione dei contratti è la precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio per garantire il corretto funzionamento del sistema.
+> 🎯 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio per garantire il corretto funzionamento del sistema.
 
-## 1. Ricezione Della Richiesta (Foglio "Archivio Richieste")
+## Indice
 
-Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
+1. [Ricezione Della Richiesta](#ricezione-della-richiesta)
+2. [Controllo Della Richiesta](#controllo-della-richiesta)
+3. [Registrazione di un Nuovo Membro](#registrazione-di-un-nuovo-membro)
+4. [Generazione del Contratto](#generazione-del-contratto)
+5. [Salvataggio e Registrazione del Contratto](#salvataggio-e-registrazione-del-contratto)
+6. [Monitoraggio dei Contratti](#monitoraggio-dei-contratti)
+7. [FAQs e Risoluzione dei Problemi](#faqs-e-risoluzione-dei-problemi)
+
+## Ricezione Della Richiesta
+
+Prima di immergerti nei dettagli del processo, diamo uno sguardo a come appare il modulo JotForm, attraverso il quale gli utenti inviano le richieste. Di seguito trovi due schermate del modulo:
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%201.png) | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/How%20to%20Fill%20Out%20a%20JotForm%20with%20Italian%20fields%20-%20Step%204.png) |
 |:--:|:--:|
 | Inserimento dei dati nell'interfaccia di JotForm | Messaggio di errore nel modulo JotForm |
 
-Per ogni modulo, ci sono due colonne principali: 
+Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
-- "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro. 
-- "Note" (Colonna B): questa colonna è destinata a contenere eventuali note o commenti relativi al modulo JotForm.
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/Google%20Workflow%20-%20Step%202.png) | 
+|:--:|
+| Panoramica del foglio "Archivio richieste" |
 
-## 2. Controllo Della Richiesta (Foglio "Richiesta in Elaborazione")
 
-Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, è possibile controllare tutti i dati inseriti dagli utenti. Se vengono individuati errori, questi vengono segnalati nelle colonne colorate in giallo. È possibile tornare al foglio "Archivio richieste" e correggere i dati se necessario.
+Sul foglio "Archivio richieste", ci sono due colonne principali a cui dovresti prestare particolare attenzione:
 
-Inoltre, in questo foglio avvengono i calcoli che verranno poi utilizzati per l'asseverazione e l'allegato H. Per effettuare questi calcoli, è necessario attivare i calcoli iterativi, come mostrato negli screenshots forniti.
+- "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro.
+- "Note" (Colonna B): questa colonna è destinata a contenere eventuali note o commenti relativi al modulo JotForm. È lo spazio ideale per annotare dettagli extra, chiarificazioni o semplici promemoria.
 
-## 3. Registrazione di un Nuovo Membro (Foglio "Gestione Anagrafiche")
+La gestione accurata della colonna A è fondamentale per mantenere un flusso di lavoro efficiente e organizzato. Quando hai finito di lavorare su un modulo e non sono più necessarie altre azioni, dovresti scrivere "sì" in questa cella. Questa azione segnala che il modulo è stato gestito e lo rimuove dalla lista delle attività pendenti. Tuttavia, se un modulo richiede ancora la tua attenzione, lascia questa cella vuota o scrivi "no". 
 
-Se la richiesta di assistenza proviene da un utente non iscritto all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione". In questo caso, è necessario passare al foglio "Gestione Anagrafiche".
+> 💡 Ricorda: Aggiorna lo stato di "Completata?" solo quando sei certo che un modulo sia stato pienamente gestito.
 
-In questo foglio, è possibile registrare e tracciare lo stato delle iscrizioni di tutti i membri che fanno parte della tua associazione. Per registrare un nuovo membro, segui i passaggi indicati negli screenshots forniti.
+Sebbene le informazioni in "Archivio richieste" siano inserite automaticamente, puoi sempre modificare o correggere i dati se l'utente ha commesso errori o ha cambiato idea.
 
-## 4. Generazione del Contratto (Foglio "Richiesta in Elaborazione" e "DocMerge")
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
+|:--:|
+| Modifica dei dati inseriti tramite JotForm |
 
-Una volta registrato il membro, torna al foglio "Richiesta in Elaborazione", attiva i calcoli iterativi, e attendi che appaia "si" nella cella sotto a "Procedere con DocMerge?". 
+## Controllo Della Richiesta
 
-Quando compare "si", clicca su "Link a DocMerge", come indicato negli screenshot. Segui le istruzioni fornite negli screenshot per generare automaticamente i documenti richiesti.
+Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, puoi controllare e correggere i dati inseriti dagli utenti. Gli errori saranno segnalati nelle colonne evidenziate in giallo. Se necessario, puoi tornare al foglio "Archivio richieste" per correggere i dati.
 
-## 5. Salvataggio e Registrazione del Contratto (Foglio "Archivio Contratti - YAMM")
+> Promemoria: Attiva i calcoli iterativi come mostrato negli screenshots per effettuare i calcoli che verranno utilizzati per l'asseverazione e l'allegato H.
 
-Una volta generati i documenti, salvali nella cartella desiderata. Poi, registra il contratto appena generato nel foglio "Archivio Contratti - YAMM", seguendo i passaggi indicati negli screenshots.
+## Registrazione di un Nuovo Membro
 
-## 6. Monitoraggio dei Contratti (Foglio "Contratti in Scadenza" e "Pannello di Controllo")
+Se una richiesta di assistenza proviene da un utente non iscritto all'associazione, apparirà un messaggio di errore nel foglio "Richiesta in Elaborazione". In questo caso, dovrai passare al foglio "Gestione Anagrafiche" dove potrai registrare e monitorare lo stato delle iscrizioni di tutti i membri.
 
-Il foglio "Contratti in Scadenza" contiene tutti i contratti che scadranno nei prossimi 30 giorni, per permettere una tempestiva notifica agli associati. 
+> Suggerimento: Segui i passaggi mostrati negli screenshots per registrare un nuovo membro.
+
+## Generazione del Contratto
+
+Dopo aver registrato il nuovo membro, torna al foglio "Richiesta in Elaborazione", attiva i calcoli iterativi, e attendi che appaia "sì" nella cella sotto a "Procedere con DocMerge?".
+
+Quando compare "sì", procedi cliccando su "Link a DocMerge", come indicato negli screenshot.
+
+> Suggerimento: Segui le istruzioni fornite negli screenshot per generare automaticamente i documenti richiesti.
+
+## Salvataggio e Registrazione del Contratto
+
+Una volta generati i documenti, salvali in una cartella sicura e poi registra il contratto nel foglio "Archivio Contratti - YAMM".
+
+> Promemoria: Segui i passaggi mostrati negli screenshots per registrare correttamente il contratto.
+
+## Monitoraggio dei Contratti
+
+Il foglio "Contratti in Scadenza" ti permette di monitorare tutti i contratti che scadranno nei prossimi 30 giorni, per una tempestiva notifica agli associati.
 
 Infine, il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti.
+
+> Tip: Mantenere un monitoraggio costante dei contratti può aiutarti a gestire proattivamente eventuali problemi o questioni future.
+
+## FAQs e Risoluzione dei Problemi
+
+(Questo spazio potrebbe essere utilizzato per rispondere alle domande frequenti o fornire suggerimenti per la risoluzione dei problemi comuni.)
