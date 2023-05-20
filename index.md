@@ -9,7 +9,7 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 ## Indice
 
 1. [Ricezione Della Richiesta](#ricezione-della-richiesta)
-2. [Controllo Della Richiesta](#controllo-della-richiesta)
+2. [Elaborazione Della Richiesta](#elaborazione-della-richiesta)
 3. [Registrazione di un Nuovo Membro](#registrazione-di-un-nuovo-membro)
 4. [Generazione del Contratto](#generazione-del-contratto)
 5. [Salvataggio e Registrazione del Contratto](#salvataggio-e-registrazione-del-contratto)
@@ -18,7 +18,7 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 
 ## Ricezione della Richiesta
 
-Il modulo JotForm è uno strumento versatile e potente per la raccolta di richieste da vari utenti. Può essere inviato a proprietari di immobili, inquilini o agenzie immobiliari. Questo permette di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
+Il modulo JotForm è uno strumento versatile e potente per la raccolta di richieste di assistenza da vari utenti. Può essere inviato a proprietari di immobili, inquilini o agenzie immobiliari. Questo permette di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
 
 Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
 
@@ -55,42 +55,40 @@ Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automat
 
 ### Pronto a Procedere?
 
-Fino a questo punto, abbiamo esaminato come si riceve una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
+Fino a questo punto, abbiamo esaminato come viene ricevuta una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
 
-## Controllo Della Richiesta
+## Elaborazione della Richiesta
 
-Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, puoi controllare e correggere i dati inseriti dagli utenti. Gli errori saranno segnalati nelle colonne evidenziate in giallo. Se necessario, puoi tornare al foglio "Archivio richieste" per correggere i dati inseriti dagli utenti.
+Il foglio "Richiesta in Elaborazione" presenta la richiesta meno recente inviata tramite JotForm e ancora in sospeso - essenzialmente, la più datata nella coda di lavoro. In questo quadro, avrai l'opportunità di esaminare i dati inseriti dagli utenti e verificare la presenza di eventuali errori, che verranno resi visibili nelle colonne evidenziate in giallo. Qualora riscontrassi imprecisioni, potrai tornare al foglio "Archivio richieste" per correggere i dati. Questo foglio non è destinato unicamente al monitoraggio dei dati, ma anche per effettuare i calcoli indispensabili per la generazione dell'asseverazione e dell'allegato H.
 
-> Promemoria: Attiva i calcoli iterativi come mostrato negli screenshots per effettuare i calcoli che verranno utilizzati per l'asseverazione e l'allegato H.
+[panoramica foglio elaborazione]
 
-## Registrazione di un Nuovo Membro
+Per quanto riguarda i calcoli: se l'immobile in questione si trova in un comune presente nel database di ConcordatoFacile, i valori minimi e massimi dell'area omogenea cui appartiene saranno identificati automaticamente dal sistema. Nel caso in cui il comune non fosse incluso nel database, riceverai una notifica. 
 
-Se una richiesta di assistenza proviene da un utente non iscritto all'associazione, apparirà un messaggio di errore nel foglio "Richiesta in Elaborazione". In questo caso, dovrai passare al foglio "Gestione Anagrafiche" dove potrai registrare e monitorare lo stato delle iscrizioni di tutti i membri.
+[screenshot notifica]
 
-> Suggerimento: Segui i passaggi mostrati negli screenshots per registrare un nuovo membro.
+In tale circostanza, dovrai verificare, consultando gli accordi territoriali pertinenti, la correttezza dei dati forniti dagli utenti. All'occorrenza, potrai apportare modifiche nel foglio "Archivio richieste" come precedentemente indicato. Per individuare rapidamente la richiesta in lavorazione, copia il "Submission ID" dal foglio "Richiesta in Elaborazione" e cercalo nel foglio "Archivio richieste", come illustrato nel seguente video.
 
-## Generazione del Contratto
+[link al video che dimostra come correggere dati valori minimi e massimi errati]
 
-Dopo aver registrato il nuovo membro, torna al foglio "Richiesta in Elaborazione", attiva i calcoli iterativi, e attendi che appaia "sì" nella cella sotto a "Procedere con DocMerge?".
+Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione". 
 
-Quando compare "sì", procedi cliccando su "Link a DocMerge", come indicato negli screenshot.
+[screenshot errore]
 
-> Suggerimento: Segui le istruzioni fornite negli screenshot per generare automaticamente i documenti richiesti.
+In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo membro o rinnovare la sua iscrizione. Da qui potrai anche monitorare lo stato di iscrizione di tutti i membri.
 
-## Salvataggio e Registrazione del Contratto
+[link al video che dimostra come registrare nuovo membro]
 
-Una volta generati i documenti, salvali in una cartella sicura e poi registra il contratto nel foglio "Archivio Contratti - YAMM".
+Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?".
 
-> Promemoria: Segui i passaggi mostrati negli screenshots per registrare correttamente il contratto.
+[link al video che dimostra come funzionano i calcoli iterativi]
 
-## Monitoraggio dei Contratti
+Al comparire del "Sì", procedi cliccando su "Link a DocMerge", come mostrato nel video sottostante.
 
-Il foglio "Contratti in Scadenza" ti permette di monitorare tutti i contratti che scadranno nei prossimi 30 giorni, per una tempestiva notifica agli associati.
+[link al video che dimostra come aprire docmerge]
 
-Infine, il foglio "Pannello di Controllo" fornisce una visione generale dei dati dell'associazione, tra cui il numero totale di iscrizioni, i contratti in scadenza, gli errori e altre informazioni importanti.
+Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà di spedire la documentazione in maniera rapida alle parti interessate.
 
-> Tip: Mantenere un monitoraggio costante dei contratti può aiutarti a gestire proattivamente eventuali problemi o questioni future.
+Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
-## FAQs e Risoluzione dei Problemi
-
-(Questo spazio potrebbe essere utilizzato per rispondere alle domande frequenti o fornire suggerimenti per la risoluzione dei problemi comuni.)
+[documentazione ancora da scrivere qui]
