@@ -18,7 +18,7 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 
 ## Ricezione Della Richiesta
 
-Prima di immergerti nei dettagli del processo, diamo uno sguardo a come appare il modulo JotForm, attraverso il quale gli utenti inviano le richieste.
+Prima di immergerci nei dettagli tecnici, diamo uno sguardo a come appare il modulo JotForm attraverso il quale gli utenti inviano le richieste.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-29-43%20PM.gif) |
 |:--:|
