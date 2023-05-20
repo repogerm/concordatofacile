@@ -15,39 +15,44 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 5. [Salvataggio e Registrazione del Contratto](#salvataggio-e-registrazione-del-contratto)
 6. [Monitoraggio dei Contratti](#monitoraggio-dei-contratti)
 7. [FAQs e Risoluzione dei Problemi](#faqs-e-risoluzione-dei-problemi)
+## Ricezione della Richiesta
 
-## Ricezione Della Richiesta
-
-Prima di immergerci nei dettagli tecnici, diamo uno sguardo a come appare il modulo JotForm attraverso il quale gli utenti inviano le richieste.
+Prima di esaminare i dettagli tecnici, diamo un'occhiata al modulo JotForm che gli utenti utilizzano per inviare le loro richieste.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
-| **Breve panoramica del modulo JotForm** |
+| **Panoramica del modulo JotForm** |
 
-Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
+Una volta che un utente sottomette una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate nel foglio "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
-| **Panoramica del foglio "Archivio richieste"** |
+| **Occhiata al foglio "Archivio richieste"** |
 
-Sul foglio "Archivio richieste", ci sono due colonne principali a cui devi prestare particolare attenzione:
+Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui dovresti prestare attenzione:
 
-- "Completata?" (Colonna A): se si inserisce "sì" in questa cella, il modulo JotForm viene rimosso dalla coda di lavoro.
-- "Note" (Colonna B): questa colonna è destinata a contenere eventuali note o commenti relativi al modulo JotForm. È lo spazio ideale per annotare dettagli extra, chiarificazioni o semplici promemoria.
+- "Completata?" (Colonna A): Se immetti "sì" in questa cella, il modulo JotForm associato viene ritenuto gestito e quindi rimosso dalla lista delle attività in sospeso.
+- "Note" (Colonna B): Questa colonna è designata per contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il posto perfetto per registrare dettagli aggiuntivi, richiedere chiarimenti o lasciare dei promemoria.
 
-La gestione accurata della colonna A è fondamentale per mantenere un flusso di lavoro efficiente e organizzato. Quando hai finito di lavorare su un modulo e non sono più necessarie altre azioni, scrivi "sì" in questa cella. Questa azione segnala che il modulo è stato gestito e lo rimuove dalla lista delle attività pendenti. Tuttavia, se un modulo richiede ancora la tua attenzione, lascia questa cella vuota o scrivi "no". 
+Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai finito di gestire un modulo e non sono necessarie ulteriori azioni, dovresti scrivere "sì" in questa cella. Questo indica che la richiesta è stata completamente trattata e la rimuove dalla lista delle attività pendenti. Se, invece, un modulo richiede ancora attenzione, lascia questa cella vuota o scrivi "no".
 
-> 💡 Ricorda: Aggiorna lo stato di "Completata?" solo quando sei certo che un modulo sia stato pienamente gestito.
+> 💡 Ricorda: L'aggiornamento dello stato di "Completata?" dovrebbe avvenire solo quando sei assolutamente sicuro che una richiesta sia stata completamente gestita.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
 |:--:|
-| **Quando scrivi "sì" sotto la colonna "Completata?" nel foglio '"Archivio richieste", il valore di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
+| **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente a zero** |
 
-Sebbene le informazioni in "Archivio richieste" siano inserite automaticamente, puoi sempre modificare o correggere i dati se l'utente ha commesso errori o ha cambiato idea.
+Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di
+
+ tornare per correggere o modificare i dati se l'utente ha commesso errori o ha cambiato idea.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 |:--:|
-| **Modifica dei dati inseriti tramite JotForm** |
+| **Esempio di modifica dei dati inseriti tramite JotForm** |
+
+### Pronti a Procedere?
+
+Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per completare in modo efficace e accurato la gestione delle richieste.
 
 ## Controllo Della Richiesta
 
