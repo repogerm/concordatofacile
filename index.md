@@ -1,6 +1,6 @@
 # ConcordatoFacile: Una Guida Completa
 
-ConcordatoFacile è un efficace strumento che facilita la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa guida ti guiderà passo per passo nel processo, assicurandoti una facile navigazione attraverso ogni sezione dell'applicazione.
+ConcordatoFacile è un efficace soluzione che facilita la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa guida ti accompagnerà passo per passo nel processo di creazione, gestione e revisione dei contratti di locazione, assicurandoti una facile navigazione attraverso ogni sezione dell'applicazione.
 
 Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata progettata per essere chiara e comprensibile anche per gli utenti meno esperti.
 
