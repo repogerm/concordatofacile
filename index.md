@@ -15,9 +15,14 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 5. [Salvataggio e Registrazione del Contratto](#salvataggio-e-registrazione-del-contratto)
 6. [Monitoraggio dei Contratti](#monitoraggio-dei-contratti)
 7. [FAQs e Risoluzione dei Problemi](#faqs-e-risoluzione-dei-problemi)
+
 ## Ricezione della Richiesta
 
-Prima di esaminare i dettagli tecnici, diamo un'occhiata al modulo JotForm che gli utenti utilizzano per inviare le loro richieste.
+Il modulo JotForm è uno strumento versatile e potente per la raccolta di richieste da vari utenti. Può essere inviato a proprietari di immobili, inquilini o agenzie immobiliari. Questo permette di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
+
+Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
+
+Prima di esaminare i dettagli tecnici, diamo un'occhiata al modulo che gli utenti utilizzano per inviare le loro richieste.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
@@ -48,13 +53,13 @@ Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automat
 |:--:|
 | **Esempio di modifica dei dati inseriti tramite JotForm** |
 
-### Pronti a Procedere?
+### Pronto a Procedere?
 
-Fino a questo punto, abbiamo esaminato come si riceve una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo efficace e accurato.
+Fino a questo punto, abbiamo esaminato come si riceve una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
 
 ## Controllo Della Richiesta
 
-Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, puoi controllare e correggere i dati inseriti dagli utenti. Gli errori saranno segnalati nelle colonne evidenziate in giallo. Se necessario, puoi tornare al foglio "Archivio richieste" per correggere i dati.
+Il foglio "Richiesta in Elaborazione" mostra l'ultima richiesta inviata da JotForm che non è stata ancora completata. Qui, puoi controllare e correggere i dati inseriti dagli utenti. Gli errori saranno segnalati nelle colonne evidenziate in giallo. Se necessario, puoi tornare al foglio "Archivio richieste" per correggere i dati inseriti dagli utenti.
 
 > Promemoria: Attiva i calcoli iterativi come mostrato negli screenshots per effettuare i calcoli che verranno utilizzati per l'asseverazione e l'allegato H.
 
