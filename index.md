@@ -20,15 +20,15 @@ Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata proget
 
 Prima di immergerci nei dettagli tecnici, diamo uno sguardo a come appare il modulo JotForm attraverso il quale gli utenti inviano le richieste.
 
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-29-43%20PM.gif) |
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
-| Panoramica del modulo JotForm |
+| **Breve panoramica del modulo JotForm** |
 
 Quando un utente invia una richiesta tramite JotForm, queste informazioni vengono automaticamente inserite nel foglio "Archivio richieste". Ogni modulo JotForm corrisponde a una riga in questo foglio, e i dati inseriti dagli utenti sono organizzati in colonne separate.
 
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/Google%20Workflow%20-%20Step%202.png) | 
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
-| Panoramica del foglio "Archivio richieste" |
+| **Panoramica del foglio "Archivio richieste"** |
 
 Sul foglio "Archivio richieste", ci sono due colonne principali a cui devi prestare particolare attenzione:
 
@@ -39,11 +39,15 @@ La gestione accurata della colonna A è fondamentale per mantenere un flusso di 
 
 > 💡 Ricorda: Aggiorna lo stato di "Completata?" solo quando sei certo che un modulo sia stato pienamente gestito.
 
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
+|:--:|
+| **Quando scrivi "sì" sotto la colonna "Completata?" nel foglio '"Archivio richieste", il valore di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
+
 Sebbene le informazioni in "Archivio richieste" siano inserite automaticamente, puoi sempre modificare o correggere i dati se l'utente ha commesso errori o ha cambiato idea.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 |:--:|
-| Modifica dei dati inseriti tramite JotForm |
+| **Modifica dei dati inseriti tramite JotForm** |
 
 ## Controllo Della Richiesta
 
