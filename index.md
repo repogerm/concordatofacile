@@ -8,7 +8,7 @@ Nel caso in cui ci siano processi non menzionati o se hai domande specifiche rel
 
 Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. Se non sei un esperto di tecnologia, non preoccuparti! Questa guida è stata progettata per essere chiara e intuitiva, anche per gli utenti con meno familiarità con la tecnologia.
 
-> 🎯 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio elettronico e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
+> 💡 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio elettronico e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
 ## Indice
 
