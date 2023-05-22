@@ -24,7 +24,7 @@ Questa guida ti condurrà attraverso il processo di gestione dei contratti di lo
 
 ## Ricezione della Richiesta
 
-Il modulo JotForm è uno strumento versatile e potente per la raccolta di richieste di assistenza da vari utenti. Può essere inviato a proprietari di immobili, inquilini o agenzie immobiliari. Questo permette di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
+ConcordatoFacile utilizza JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
 
 Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
 
