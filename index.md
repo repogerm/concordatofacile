@@ -2,7 +2,7 @@
 
 Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
 
-Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Workspace, JotForm, DocVariables, e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
+Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Drive, Google Sheets, JotForm, DocVariables, e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
 
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
@@ -24,7 +24,7 @@ Questa guida ti condurrà attraverso il processo di gestione dei contratti di lo
 
 ## Ricezione della Richiesta
 
-ConcordatoFacile utilizza JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio "Archivio richieste".
+ConcordatoFacile utilizza JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
 
@@ -34,7 +34,7 @@ Prima di esaminare i dettagli tecnici, diamo un'occhiata al modulo che gli utent
 |:--:|
 | **Panoramica del modulo JotForm** |
 
-Una volta che un utente sottomette una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate nel foglio "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
+Una volta che un utente sottomette una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate nel foglio elettronico "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
