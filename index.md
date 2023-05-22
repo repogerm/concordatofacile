@@ -1,4 +1,4 @@
-# ConcordatoFacile: Una Guida Completa
+# ConcordatoFacile: Guida introduttiva
 
 Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
 
