@@ -2,17 +2,17 @@
 
 Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
 
-Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Drive, Google Sheets, JotForm, DocVariables, e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
+Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Drive, Google Sheets, JotForm, DocVariables e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
 
 ## Google Drive e Google Sheets
 
-Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare JotForm, uno strumento impiegato per raccogliere le informazioni necessarie per la creazione del contratto di locazione, è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
+Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare, JotForm, uno strumento impiegato per raccogliere le informazioni necessarie per la creazione del contratto di locazione, è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
 
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
-Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
+Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
 
-Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. 
+Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione.
 
 > 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
@@ -31,8 +31,6 @@ Questa guida ti condurrà attraverso il processo di gestione dei contratti di lo
 ConcordatoFacile utilizza un modulo JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Questo modulo può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
-
-Prima di esaminare i dettagli tecnici, diamo un'occhiata al modulo che gli utenti utilizzano per inviare le loro richieste.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
@@ -73,7 +71,7 @@ Il foglio "Richiesta in Elaborazione" presenta la richiesta meno recente inviata
 
 [panoramica foglio elaborazione]
 
-Per quanto riguarda i calcoli: se l'immobile in questione si trova in un comune presente nel database di ConcordatoFacile, i valori minimi e massimi dell'area omogenea cui appartiene saranno identificati automaticamente dal sistema. Nel caso in cui il comune non fosse incluso nel database, riceverai una notifica. 
+Per quanto riguarda i calcoli: se l'immobile in questione si trova in un comune presente nel database di ConcordatoFacile, i valori minimi e massimi dell'area omogenea cui appartiene saranno identificati automaticamente dal sistema. Nel caso in cui il comune non fosse incluso nel database, riceverai una notifica.
 
 [screenshot notifica]
 
@@ -81,7 +79,7 @@ In tale circostanza, dovrai verificare, consultando gli accordi territoriali per
 
 [link al video che dimostra come correggere dati valori minimi e massimi errati]
 
-Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione". 
+Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
 [screenshot errore]
 
