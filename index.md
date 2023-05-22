@@ -2,6 +2,8 @@
 
 Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
 
+Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Workspace, JotForm, DocVariables, e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
+
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
 Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
