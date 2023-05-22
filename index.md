@@ -4,7 +4,7 @@ Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione 
 
 È fondamentale notare che questa guida serve come un punto di riferimento generale per avviare la tua esperienza con ConcordatoFacile. La versatilità di questa soluzione risiede nella sua capacità di adattarsi alle tue esigenze specifiche, il che significa che potrebbero esserci aspetti unici al tuo caso che non sono espressamente delineati qui.
 
-Se dovessero emergere processi non coperti da questa guida o se avessi domande specifiche riguardanti la tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
+Se dovessero emergere processi non coperti da questa guida o se avessi domande specifiche riguardanti la tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di questo strumento.
 
 Prima di iniziare, è utile familiarizzare con alcune delle componenti chiave utilizzate in ConcordatoFacile. Di seguito è presentato un glossario che fornisce una descrizione dettagliata di ciascuna di queste componenti.
 
