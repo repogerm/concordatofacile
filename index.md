@@ -46,7 +46,7 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Ricezione della Richiesta
 
-ConcordatoFacile utilizza un modulo JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Questo modulo può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
+ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Questo modulo può essere inviato tramite e-mail oppure può essere inserito direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
