@@ -12,7 +12,7 @@ Prima di iniziare, è importante sottolineare che questa guida è di natura gene
 
 Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
 
-Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. Se non sei un esperto di tecnologia, non preoccuparti! Questa guida è stata progettata per essere chiara e intuitiva, anche per gli utenti con meno familiarità con la tecnologia.
+Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. 
 
 > 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
