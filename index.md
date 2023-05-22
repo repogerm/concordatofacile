@@ -4,7 +4,7 @@ Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione 
 
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
-Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email germ.riccio@gmail.com. Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
+Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
 
 Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. Se non sei un esperto di tecnologia, non preoccuparti! Questa guida è stata progettata per essere chiara e intuitiva, anche per gli utenti con meno familiarità con la tecnologia.
 
