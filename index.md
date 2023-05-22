@@ -4,13 +4,17 @@ Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione 
 
 Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Drive, Google Sheets, JotForm, DocVariables, e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
 
+## Google Drive e Google Sheets
+
+Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare, JotForm è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
+
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
 Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
 
 Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. Se non sei un esperto di tecnologia, non preoccuparti! Questa guida è stata progettata per essere chiara e intuitiva, anche per gli utenti con meno familiarità con la tecnologia.
 
-> 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio elettronico e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
+> 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
 ## Indice
 
@@ -24,7 +28,7 @@ Questa guida ti condurrà attraverso il processo di gestione dei contratti di lo
 
 ## Ricezione della Richiesta
 
-ConcordatoFacile utilizza JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
+ConcordatoFacile utilizza un modulo JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Questo modulo può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
 
@@ -40,7 +44,7 @@ Una volta che un utente sottomette una richiesta tramite JotForm, le informazion
 |:--:|
 | **Panoramica del foglio "Archivio richieste"** |
 
-Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui devi prestare attenzione:
+Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui prestare attenzione:
 
 - "Completata?" (Colonna A): Se immetti "sì" in questa cella, il modulo JotForm associato viene ritenuto gestito e quindi rimosso dalla lista delle attività in sospeso.
 - "Note" (Colonna B): Questa colonna è designata per contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il posto perfetto per registrare dettagli aggiuntivi o lasciare dei promemoria.
@@ -61,7 +65,7 @@ Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automat
 
 ### Pronto a Procedere?
 
-Fino a questo punto, abbiamo esaminato come viene ricevuta una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
+Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" in "Completata?". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
 
 ## Elaborazione della Richiesta
 
