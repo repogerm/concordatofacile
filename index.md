@@ -1,8 +1,12 @@
 # ConcordatoFacile: Una Guida Completa
 
-ConcordatoFacile è un efficace soluzione che facilita la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa guida ti accompagnerà passo per passo nel processo di creazione, gestione e revisione dei contratti di locazione, assicurandoti una facile navigazione attraverso ogni sezione dell'applicazione.
+Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
 
-Non sei un esperto di tecnologia? Non preoccuparti! Questa guida è stata progettata per essere chiara e comprensibile anche per gli utenti meno esperti.
+Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
+
+Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email germ.riccio@gmail.com. Sarà un piacere assisterti affinché che tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
+
+Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione. Se non sei un esperto di tecnologia, non preoccuparti! Questa guida è stata progettata per essere chiara e intuitiva, anche per gli utenti con meno familiarità con la tecnologia.
 
 > 🎯 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio elettronico e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
