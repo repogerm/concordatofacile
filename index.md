@@ -16,7 +16,7 @@ Google Drive è un servizio di archiviazione cloud fornito da Google. Questo ser
 
 ### Google Sheets
 
-Google Sheets è un'applicazione per fogli di calcolo basata su cloud, anch'essa fornita da Google. Questa applicazione offre funzionalità simili a quelle di Microsoft Excel, ma si differenzia da quest'ultima per la possibilità di accedere e modificare i dati da qualsiasi dispositivo con una connessione Internet e per il suo efficiente sistema di collaborazione in tempo reale. In ConcordatoFacile, Google Sheets è utilizzato per gestire e analizzare i dati raccolti tramite JotForm. Questi dati vengono utilizzati per calcolare il canone di locazione corretto, garantendo la massima precisione. Inoltre, Google Sheets funge da interfaccia per l'interazione con altre componenti del sistema, come DocVariables e YAMM.
+Google Sheets è un'applicazione per fogli di calcolo basata su cloud, anch'essa fornita da Google. Questa applicazione offre funzionalità simili a quelle di Microsoft Excel, ma si differenzia da quest'ultima per la possibilità di accedere e modificare i dati da qualsiasi dispositivo con una connessione Internet e per il suo efficiente sistema di collaborazione in tempo reale. In ConcordatoFacile, Google Sheets è utilizzato per gestire, analizzare ed elaborare i dati raccolti tramite JotForm. Inoltre, Google Sheets funge da interfaccia per l'interazione con altre componenti del sistema, come DocVariables e YAMM.
 
 ### JotForm
 
