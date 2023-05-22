@@ -97,7 +97,7 @@ Al comparire del "Sì", procedi cliccando su "Link a DocMerge", come mostrato ne
 
 [link al video che dimostra come aprire docmerge]
 
-Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà di spedire la documentazione in maniera rapida alle parti interessate.
+Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà di spedire la documentazione in maniera rapida alle parti interessate.
 
 Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
