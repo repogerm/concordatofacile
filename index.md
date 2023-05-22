@@ -1,18 +1,36 @@
 # ConcordatoFacile: Guida introduttiva
 
-Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria.
+Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata.
 
-Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata. Queste componenti comprendono Google Drive, Google Sheets, JotForm, DocVariables e Yet Another Mail Merge (YAMM), ciascuna delle quali svolge un ruolo fondamentale all'interno di ConcordatoFacile.
+Prima di iniziare, è fondamentale notare che questa guida serve come un punto di riferimento generale per avviare la tua esperienza con ConcordatoFacile. La versatilità di questa soluzione risiede nella sua capacità di adattarsi alle tue esigenze specifiche, il che significa che potrebbero esserci aspetti unici al tuo caso che non sono espressamente delineati qui.
 
-## Google Drive e Google Sheets
+Se dovessero emergere processi non coperti da questa guida o se avessi domande specifiche riguardanti la tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
 
-Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare, JotForm, uno strumento impiegato per raccogliere le informazioni necessarie per la creazione del contratto di locazione, è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
+Inoltre, è utile familiarizzare con alcune delle componenti chiave utilizzate in ConcordatoFacile. Di seguito è presentato un glossario che fornisce una descrizione dettagliata di ciascuna di queste componenti.
 
-Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
+## Glossario
 
-Nel caso in cui ci siano processi non menzionati o se hai domande specifiche relative alla tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di ConcordatoFacile.
+### Google Drive
 
-Questa guida ti condurrà attraverso il processo di gestione dei contratti di locazione, assicurandoti una navigazione fluida attraverso ogni sezione dell'applicazione.
+Google Drive è un servizio di archiviazione cloud fornito da Google. Questo servizio offre un ambiente sicuro e affidabile per l'archiviazione di dati e documenti. In ConcordatoFacile, Google Drive funge da deposito centrale per tutti i file e i documenti relativi ai contratti di locazione. Questo include i moduli compilati, i contratti generati e qualsiasi altro documento correlato. L'uso di Google Drive garantisce che i documenti siano sempre disponibili, accessibili da qualsiasi dispositivo connesso a Internet e protetti da perdite di dati.
+
+### Google Sheets
+
+Google Sheets è un'applicazione per fogli di calcolo basata su cloud, anch'essa fornita da Google. Questa applicazione offre funzionalità simili a quelle di Microsoft Excel, ma con l'aggiunta di accessibilità da qualsiasi dispositivo connesso a Internet e collaborazione in tempo reale. In ConcordatoFacile, Google Sheets è utilizzato per gestire e analizzare i dati raccolti tramite JotForm. Questi dati vengono utilizzati per calcolare il canone di locazione corretto, garantendo la massima precisione. Inoltre, Google Sheets funge da interfaccia per l'interazione con altre componenti del sistema, come DocVariables e YAMM.
+
+### JotForm
+
+JotForm è uno strumento online che permette di creare moduli personalizzati. Questo strumento offre un'ampia gamma di opzioni di personalizzazione, rendendolo adatto a una varietà di applicazioni. In ConcordatoFacile, JotForm è utilizzato per raccogliere le informazioni necessarie per la creazione del contratto di locazione. Queste informazioni vengono raccolte tramite un modulo online che può essere compilato dai proprietari di immobili, dagli inquilini o dalle agenzie immobiliari. Una volta compilato, il modulo viene inviato a Google Sheets per l'elaborazione.
+
+### DocVariables
+
+DocVariables è uno strumento per la generazione automatica di documenti. Questo strumento è progettato per semplificare il processo di creazione di documenti personalizzati, eliminando la necessità di copiare e incollare manualmente le informazioni da una fonte all'altra. In ConcordatoFacile, DocVariables utilizza i dati raccolti tramite JotForm e gestiti in Google Sheets per generare automaticamente un documento contenente il contratto di locazione completo. Questo documento è poi pronto per essere condiviso con le parti coinvolte nel contratto di locazione.
+
+### Yet Another Mail Merge (YAMM)
+
+Yet Another Mail Merge, o YAMM, è uno strumento per l'invio di email personalizzate in modo automatizzato. Questo strumento è particolarmente utile quando si devono inviare email a molte persone contemporaneamente, ma si desidera personalizzare il contenuto per ciascun destinatario. In ConcordatoFacile, YAMM utilizza i dati gestiti in Google Sheets per inviare i contratti di locazione via email. Questo garantisce una comunicazione tempestiva e professionale con le parti coinvolte.
+
+Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile, possiamo procedere con la guida.
 
 > 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
@@ -30,13 +48,11 @@ Questa guida ti condurrà attraverso il processo di gestione dei contratti di lo
 
 ConcordatoFacile utilizza un modulo JotForm, uno strumento versatile e potente, per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Questo modulo può essere inviato tramite e-mail a proprietari di immobili, inquilini o agenzie immobiliari, oppure puoi inserirlo direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
-Seguendo i passaggi descritti in questa sezione, potrai apprendere come gestire le richieste inviate attraverso JotForm.
-
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
 | **Panoramica del modulo JotForm** |
 
-Una volta che un utente sottomette una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate nel foglio elettronico "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
+Quando un utente invia una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate nel foglio elettronico "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
@@ -55,7 +71,7 @@ Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un f
 |:--:|
 | **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
 
-Ricorda, sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli se l'utente ha commesso errori o ha cambiato idea.
+Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli se l'utente ha commesso errori o ha cambiato idea.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 |:--:|
