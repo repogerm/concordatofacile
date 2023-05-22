@@ -6,7 +6,7 @@ Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguard
 
 ## Google Drive e Google Sheets
 
-Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare, JotForm è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
+Tutti i file e i fogli di lavoro menzionati in questa guida sono archiviati su Google Drive e gestiti tramite Google Sheets. In particolare JotForm, uno strumento impiegato per raccogliere le informazioni necessarie per la creazione del contratto di locazione, è collegato a un foglio Google specifico chiamato "ConcordatoFacile". Questo foglio contiene tutti i fogli di lavoro menzionati in questa guida.
 
 Prima di iniziare, è importante sottolineare che questa guida è di natura generica e serve come un punto di partenza per la tua esperienza con ConcordatoFacile. Poiché uno dei punti di forza di ConcordatoFacile è la sua capacità di essere personalizzato su misura per le tue esigenze specifiche, potrebbe esserci qualche passaggio unico per il tuo caso che non è indicato qui.
 
