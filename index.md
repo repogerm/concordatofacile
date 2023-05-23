@@ -114,13 +114,11 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 |:--:|
 | **Processo di registrazione di un nuovo membro** |
 
-Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?".
+Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
-[link al video che dimostra come funzionano i calcoli iterativi]
-
-Al comparire del "Sì", procedi cliccando su "Link a DocMerge", come mostrato nel video sottostante.
-
-[link al video che dimostra come aprire docmerge]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_3-20-31%20PM.gif) |
+|:--:|
+| **Esecuzione dei calcoli necessari per compilare l'asseverazione e l'allegato H** |
 
 Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
