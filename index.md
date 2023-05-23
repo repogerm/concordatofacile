@@ -2,7 +2,7 @@
 
 Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata.
 
-È fondamentale notare che questa guida serve come un punto di riferimento generale per avviare la tua esperienza con ConcordatoFacile. La versatilità di questa soluzione risiede nella sua capacità di adattarsi alle tue esigenze specifiche, il che significa che potrebbero esserci aspetti unici al tuo caso che non sono espressamente delineati qui.
+È fondamentale notare che questa guida ha lo scopo di fornire un punto di partenza generale per la tua esperienza con ConcordatoFacile. La flessibilità di questa soluzione nell'adattarsi alle tue specifiche esigenze potrebbe comportare aspetti unici nel tuo caso che non sono esplicitamente descritti qui.
 
 Se dovessero emergere processi non coperti da questa guida o se avessi domande specifiche riguardanti la tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di questo strumento.
 
@@ -111,7 +111,7 @@ Al comparire del "Sì", procedi cliccando su "Link a DocMerge", come mostrato ne
 
 [link al video che dimostra come aprire docmerge]
 
-Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà di spedire la documentazione in maniera rapida alle parti interessate.
+Ottimo lavoro finora! Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
 Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
