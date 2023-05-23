@@ -151,5 +151,18 @@ Nei passaggi successivi, ti guiderò attraverso il processo di generazione autom
 
 ## Generazione dei documenti
 
-[documentazione ancora da scrivere qui]
+Se hai seguito correttamente i passaggi fino ad ora, al momento ti trovi di fronte ad un documento simile a questo:
 
+[screenshot che mostra il documento che si trova di fronte all'utente]
+
+Per procedere con la generazione dei documenti, segui i passaggi mostrati nel video sottostante. DocVariables utilizzerà i dati contenuti in Google Sheets per generare i documenti, basandosi sui dati elaborati dal sistema e da te revisionati.
+
+> 💡 Segui attentamente questi passaggi per generare i documenti utilizzando DocVariables.
+>
+> 1. Clicca su "Estensioni".
+> 2. Seleziona "DocVariables" per avviare DocVariables.
+> 3. Clicca su "DocMerge" per avviare la funzione DocMerge.
+> 4. Fai clic su "Run Now" per avviare il processo di trasferimento dei dati da Google Sheets.
+> 5. Clicca sul link blu a destra di "Export Folder" per accedere alla cartella in cui è stata memorizzata la documentazione generata automaticamente.
+
+[video]
