@@ -112,7 +112,7 @@ Se una richiesta di assistenza perviene da un utente non registrato all'associaz
 
 In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo membro o rinnovare la sua iscrizione. Da qui potrai anche monitorare lo stato di iscrizione di tutti i membri.
 
-> 💡 Segui questi passaggi per inserire un nuovo membro nel database degli iscritti:
+> ⚠️ Segui questi passaggi per inserire un nuovo membro nel database degli iscritti:
 >
 > 1. Clicca su "Estensioni" nella barra del menu.
 > 2. Seleziona "Macro" dal menu a discesa che appare.
@@ -126,7 +126,7 @@ Come noterai, nelle colonne colorate di giallo, utilizzate per segnalare possibi
 
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
-> 💡 Segui questi passaggi per gestire i calcoli iterativi e evitare rallentamenti al foglio elettronico:
+> ⚠️ Segui questi passaggi per gestire i calcoli iterativi e evitare rallentamenti al foglio elettronico:
 >
 > - Per attivare i calcoli iterativi:
 >   1. Fai clic sull'icona "File" nella barra del menu.
@@ -145,24 +145,24 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 |:--:|
 | **Correzione degli errori individuati ed esecuzione dei calcoli necessari per compilare l'asseverazione e l'allegato H** |
 
-Ottimo lavoro finora! Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
+Ottimo lavoro finora! Ora che abbiamo compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
 Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
 ## Generazione dei documenti
 
-Se hai seguito correttamente i passaggi fino ad ora, al momento ti trovi di fronte ad un documento simile a questo:
+Una volta che avrai cliccato su "DocMerge", ti troverai di fronte a un documento simile a questo:
 
 [screenshot che mostra il documento che si trova di fronte all'utente]
 
 Per procedere con la generazione dei documenti, segui i passaggi mostrati nel video sottostante. DocVariables utilizzerà i dati contenuti in Google Sheets per generare i documenti, basandosi sui dati elaborati dal sistema e da te revisionati.
 
-> 💡 Segui attentamente questi passaggi per generare i documenti utilizzando DocVariables.
+> ⚠️ Segui attentamente questi passaggi per generare i documenti utilizzando DocVariables.
 >
 > 1. Clicca su "Estensioni".
 > 2. Seleziona "DocVariables" per avviare DocVariables.
 > 3. Clicca su "DocMerge" per avviare la funzione DocMerge.
 > 4. Fai clic su "Run Now" per avviare il processo di trasferimento dei dati da Google Sheets.
-> 5. Clicca sul link blu a destra di "Export Folder" per accedere alla cartella in cui è stata memorizzata la documentazione generata automaticamente.
+> 5. Clicca sul link blu a destra di "Export Folder" per accedere alla cartella in cui è stata archiviata la documentazione generata automaticamente.
 
 [video]
