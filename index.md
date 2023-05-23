@@ -122,6 +122,7 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 |:--:|
 | **Processo di registrazione di un nuovo membro** |
 
+Come noterai, nelle colonne colorate di giallo, utilizzate per segnalare possibili problematiche, è presente un errore evidenziato sulla riga del nuovo iscritto: non esistono contratti collegati a questo membro. Non c'è motivo di preoccuparsi, tra poco procederemo con la generazione e l'archiviazione del contratto di locazione a canone concordato per questo utente. Una volta completata questa operazione, l'avviso di errore scomparirà.
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
 > 💡 Segui questi passaggi per gestire i calcoli iterativi e evitare rallentamenti al foglio elettronico:
