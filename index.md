@@ -36,13 +36,12 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Indice
 
-1. [Ricezione Della Richiesta](#ricezione-della-richiesta)
-2. [Elaborazione Della Richiesta](#elaborazione-della-richiesta)
-3. [Registrazione di un Nuovo Membro](#registrazione-di-un-nuovo-membro)
-4. [Generazione del Contratto](#generazione-del-contratto)
-5. [Salvataggio e Registrazione del Contratto](#salvataggio-e-registrazione-del-contratto)
-6. [Monitoraggio dei Contratti](#monitoraggio-dei-contratti)
-7. [FAQs e Risoluzione dei Problemi](#faqs-e-risoluzione-dei-problemi)
+1. [Ricezione della richiesta](#ricezione-della-richiesta)
+2. [Elaborazione della richiesta](#elaborazione-della-richiesta)
+3. [Registrazione di un nuovo membro](#registrazione-di-un-nuovo-membro)
+4. [Generazione dei documenti](#generazione-dei-documenti)
+5. [Archiviazione ed invio dei documenti](#archiviazione-ed-invio-dei-documenti)
+6. [Pannello di controllo](#pannello-di-controllo)
 
 ## Ricezione della Richiesta
 
@@ -102,6 +101,8 @@ In tale circostanza, dovrai verificare, consultando gli accordi territoriali per
 | **Esempio di modifica dei dati inseriti tramite JotForm** |
 
 > 💡 Per cercare una stringa specifica in Google Sheets, utilizza la combinazione di tasti "Ctrl + F" (o "Cmd + F" su Mac). Inserisci la stringa nella casella di ricerca che appare e Sheets evidenzierà automaticamente le corrispondenze trovate nel foglio di lavoro corrente.
+
+### Registrazione di un nuovo membro
 
 Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
