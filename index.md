@@ -97,7 +97,9 @@ Per quanto riguarda i calcoli: se l'immobile in questione si trova in un comune 
 
 In tale circostanza, dovrai verificare, consultando gli accordi territoriali pertinenti, la correttezza dei dati forniti dagli utenti. All'occorrenza, potrai apportare modifiche nel foglio "Archivio richieste" come precedentemente indicato. Per individuare rapidamente la richiesta in lavorazione, copia il "Submission ID" dal foglio "Richiesta in Elaborazione" e cercalo nel foglio "Archivio richieste", come illustrato nel seguente video.
 
-[link al video che dimostra come correggere dati valori minimi e massimi errati]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-19-08%20PM.gif) |
+|:--:|
+| **Esempio di modifica dei dati inseriti tramite JotForm** |
 
 Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
