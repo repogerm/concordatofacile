@@ -145,6 +145,6 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 
 Ottimo lavoro finora! Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
-Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà di spedire la documentazione in maniera rapida alle parti interessate.
+Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
 [documentazione ancora da scrivere qui]
