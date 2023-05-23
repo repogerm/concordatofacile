@@ -140,7 +140,7 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 >   2. Trova l'opzione "Calcolo iterativo" e impostala su "off".
 >   3. Fai clic su "Salva impostazioni".
 >
-> ⚠️ È consigliato disattivare i calcoli iterativi **dopo** aver generato i documenti contenenti l'asseverazione e l'allegato H per evitare rallentamenti indesiderati al foglio elettronico.
+> ⚠️ È necessario disattivare i calcoli iterativi **dopo** aver generato i documenti contenenti l'asseverazione e l'allegato H per evitare rallentamenti indesiderati al foglio elettronico.
 
 Ottimo lavoro finora! Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
