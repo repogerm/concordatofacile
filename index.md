@@ -43,7 +43,7 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 5. [Archiviazione ed invio dei documenti](#archiviazione-ed-invio-dei-documenti)
 6. [Pannello di controllo](#pannello-di-controllo)
 
-## Ricezione della Richiesta
+## Ricezione della richiesta
 
 ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Tale modulo può essere trasmesso via e-mail oppure può essere integrato direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
@@ -76,11 +76,11 @@ Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente,
 |:--:|
 | **Esempio di modifica dei dati inseriti tramite JotForm** |
 
-### Pronto a Procedere?
+### Pronto a procedere?
 
 Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" nella colonna "A". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
 
-## Elaborazione della Richiesta
+## Elaborazione della richiesta
 
 Il foglio "Richiesta in Elaborazione" presenta la richiesta meno recente inviata tramite JotForm e ancora in sospeso - essenzialmente, la più datata nella coda di lavoro. In questo quadro, avrai l'opportunità di esaminare i dati inseriti dagli utenti e verificare la presenza di eventuali errori, che verranno resi visibili nelle colonne evidenziate in giallo. Qualora riscontrassi imprecisioni, potrai tornare al foglio "Archivio richieste" per correggere i dati. Questo foglio non è destinato unicamente al monitoraggio dei dati, ma anche per effettuare i calcoli indispensabili per la generazione dell'asseverazione e dell'allegato H.
 
@@ -149,4 +149,7 @@ Ottimo lavoro finora! Ora che hai compiuto tutti questi passaggi, potresti chied
 
 Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
+## Generazione dei documenti
+
 [documentazione ancora da scrivere qui]
+
