@@ -103,11 +103,16 @@ In tale circostanza, dovrai verificare, consultando gli accordi territoriali per
 
 Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
-[screenshot errore]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-29-28%20PM.png) |
+|:--:|
+| **Screenshot errore** |
 
 In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo membro o rinnovare la sua iscrizione. Da qui potrai anche monitorare lo stato di iscrizione di tutti i membri.
 
-[link al video che dimostra come registrare nuovo membro]
+
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif) |
+|:--:|
+| **Processo di registrazione di un nuovo membro** |
 
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?".
 
