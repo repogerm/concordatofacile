@@ -32,7 +32,7 @@ Yet Another Mail Merge, o YAMM, è uno strumento per l'invio di email personaliz
 
 Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile, possiamo procedere con la guida.
 
-> 💡 Ricorda: Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
+> 💡 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di inserire accuratamente le informazioni richieste in ciascun foglio Google Sheets e di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
 
 ## Indice
 
@@ -65,11 +65,11 @@ Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cu
 
 Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai finito di gestire un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Questo indica che la richiesta è stata completamente trattata e la rimuove dalla lista delle attività pendenti. Se, invece, un modulo richiede ancora attenzione, lascia questa cella vuota.
 
-> 💡 Ricorda: L'aggiornamento dello stato di "Completata?" dovrebbe avvenire solo quando sei assolutamente sicuro che una richiesta sia stata completamente gestita.
-
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
 |:--:|
 | **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
+
+> 💡 L'aggiornamento dello stato di "Completata?" dovrebbe avvenire solo quando sei assolutamente sicuro che una richiesta sia stata completamente gestita.
 
 Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli se l'utente ha commesso errori o ha cambiato idea.
 
@@ -101,6 +101,8 @@ In tale circostanza, dovrai verificare, consultando gli accordi territoriali per
 |:--:|
 | **Esempio di modifica dei dati inseriti tramite JotForm** |
 
+> 💡 Per cercare una stringa specifica in Google Sheets, utilizza la combinazione di tasti "Ctrl + F" (o "Cmd + F" su Mac). Inserisci la stringa nella casella di ricerca che appare e Sheets evidenzierà automaticamente le corrispondenze trovate nel foglio di lavoro corrente.
+
 Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-29-28%20PM.png) |
@@ -109,10 +111,15 @@ Se una richiesta di assistenza perviene da un utente non registrato all'associaz
 
 In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo membro o rinnovare la sua iscrizione. Da qui potrai anche monitorare lo stato di iscrizione di tutti i membri.
 
-
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif) |
 |:--:|
 | **Processo di registrazione di un nuovo membro** |
+
+> 💡 Segui questi passaggi per inserire un nuovo membro nel database degli iscritti:
+>
+> 1. Clicca su "Estensioni" nella barra del menu.
+> 2. Seleziona "Macro" dal menu a discesa che appare.
+> 3. Nella finestra delle macro, scegli l'opzione "Nuova iscrizione" per avviare la creazione di una nuova iscrizione nel database.
 
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
@@ -120,8 +127,23 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 |:--:|
 | **Correzione degli errori individuati ed esecuzione dei calcoli necessari per compilare l'asseverazione e l'allegato H** |
 
+> 💡 Segui questi passaggi per gestire i calcoli iterativi e evitare rallentamenti al foglio elettronico:
+>
+> - Per attivare i calcoli iterativi:
+>   1. Fai clic sull'icona "File" nella barra del menu.
+>   2. Seleziona "Impostazioni" dal menu a discesa.
+>   3. Nella finestra delle impostazioni, fai clic su "Calcolo".
+>   4. Imposta l'opzione "Calcolo iterativo" su "on".
+>   5. Fai clic su "Salva impostazioni".
+> - Per disattivare i calcoli iterativi:
+>   1. Segui gli stessi primi tre passaggi sopra menzionati.
+>   2. Trova l'opzione "Calcolo iterativo" e impostala su "off".
+>   3. Fai clic su "Salva impostazioni".
+>
+> ⚠️ È consigliato disattivare i calcoli iterativi dopo aver generato i documenti contenenti l'asseverazione e l'allegato H per evitare rallentamenti indesiderati al foglio elettronico.
+
 Ottimo lavoro finora! Ora che hai compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
 
-Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente nella cartella desiderata e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
+Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo passaggio ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
 
 [documentazione ancora da scrivere qui]
