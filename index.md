@@ -39,8 +39,8 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 1. [Ricezione della richiesta](#ricezione-della-richiesta)
 2. [Elaborazione della richiesta](#elaborazione-della-richiesta)
 3. [Registrazione di un nuovo membro](#registrazione-di-un-nuovo-membro)
-4. [Generazione dei documenti](#generazione-dei-documenti)
-5. [Archiviazione ed invio dei documenti](#archiviazione-ed-invio-dei-documenti)
+4. [Generazione e archiviazione dei documenti](#generazione-e-archiviazione-dei-documenti)
+5. [Invio dei documenti](#invio-dei-documenti)
 6. [Pannello di controllo](#pannello-di-controllo)
 
 ## Ricezione della richiesta
@@ -102,7 +102,7 @@ In tale circostanza, dovrai verificare, consultando gli accordi territoriali per
 |:--:|
 | **Esempio di modifica dei dati inseriti tramite JotForm** |
 
-### Registrazione di un nuovo membro
+## Registrazione di un nuovo membro
 
 Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione".
 
@@ -145,8 +145,6 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 |:--:|
 | **Correzione degli errori individuati ed esecuzione dei calcoli necessari per compilare l'asseverazione e l'allegato H** |
 
-Ora che abbiamo compiuto tutti questi passaggi, potresti pensare sia il momento di scrivere "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non ancora! Rimangono alcuni passaggi fondamentali prima di considerare l'intera procedura conclusa.
-
 Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come registrare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questi passaggi non solo semplificano e accelerano l'invio della documentazione alle parti coinvolte, ma implementano anche un efficiente sistema di monitoraggio per tutte le scadenze dei contratti di locazione, consentendoti di notificare i membri della tua associazione in modo tempestivo.
 
 ## Generazione e archiviazione dei documenti
@@ -173,11 +171,9 @@ Per generare i documenti, segui i passaggi mostrati nel video sottostante. DocVa
 
 Apri la cartella dove è archiviata la documentazione generata automaticamente e ordina i file dal più recente al più vecchio per posizionare in cima alla lista i documenti appena generati. Identifica e apri questi nuovi documenti, poi revisiona il loro contenuto. Se necessario, puoi ancora effettuare modifiche: il file è in un formato editabile.
 
-Nell'esempio specifico, la documentazione è archiviata in una cartella denominata 'output' e tra i documenti generati da DocVariables, oltre al contratto di locazione, all'asseverazione e all'allegato H, noterai anche la presenza di una ricevuta e del modulo di iscrizione all'associazione.
-
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_07_36.gif) |
 |:--:|
-| **Panoramica della documentazione appena generata** |
+| **Nell'esempio specifico, la documentazione è archiviata in una cartella denominata 'output' e tra i documenti generati da DocVariables, oltre al contratto di locazione, all'asseverazione e all'allegato H, noterai anche la presenza di una ricevuta e del modulo di iscrizione all'associazione** |
 
 Bene, i documenti sono stati generati correttamente. È il momento di tornare a Google Sheets per registrare l'operazione appena effettuata. Prima di procedere, come già indicato, disattivare i calcoli iterativi se sono ancora attivi è un passaggio obbligatorio. Conclusa questa operazione, accedere al foglio di calcolo "Archivio contratti - YAMM" e avviare il processo di registrazione di un nuovo contratto, seguendo le istruzioni presenti nel video seguente.
 
@@ -190,3 +186,43 @@ Bene, i documenti sono stati generati correttamente. È il momento di tornare a 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_14_24.gif) |
 |:--:|
 | **Registrazione ultimo contratto in "Archivio contratti - YAMM** |
+
+## Invio dei documenti
+
+spiegare colonne in questo foglio, spiegare yamm
+
+spiegare foglio contratti in scadenza
+
+Bene! Abbiamo gestito con successo la richiesta in tutti i suoi aspetti: abbiamo esaminato il contenuto inviato tramite JotForm, eseguito i calcoli necessari su Google Sheets, creato i documenti con DocVariables, e inviato tramite email la documentazione completa all'utente che ha richiesto assistenza per il contratto di locazione a canone concordato. 
+
+Prima di contrassegnare la richiesta come completata, controlliamo le note indicate nella colonna B del foglio "Archivio Richieste". Se, ad esempio, le note indicano che l'utente non ha ancora effettuato il pagamento o ci sono altri motivi che impediscono di considerare la richiesta come completata, eviteremo di scrivere "sì" nella colonna A. Se tutto va per il verso giusto e le note non evidenziano alcun problema, procederemo a contrassegnare la richiesta come completata scrivendo "sì" nella colonna A.
+
+## Pannello di controllo
+
+Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente aggiornata dei dati relativi alla tua associazione.
+
+[panoramica del "pannello di controllo"]
+
+1. **Generatore ID membri**: Questo campo è responsabile della generazione automatica di un ID univoco per ogni nuovo membro che si iscrive alla tua associazione. L'ID è composto dal prefisso "MEM" seguito da un numero di sei cifre. Questo sistema di ID univoci semplifica il tracciamento e la gestione dei membri, garantendo che ognuno abbia un'identificazione unica nel sistema. Puoi utilizzare questi ID per individuare i membri specifici, seguire il loro coinvolgimento nell'associazione e monitorare le loro attività.
+
+2. **Generatore ID contratti**: Allo stesso modo, il generatore di ID dei contratti fornisce un identificatore univoco per ogni nuovo contratto creato. Ogni contratto viene automaticamente assegnato a un ID che inizia con il prefisso "CON" seguito da un numero di sei cifre. Questo sistema di ID univoci consente di organizzare e archiviare i contratti in modo strutturato nel database dell'associazione. Ogni volta che è necessario fare riferimento a un contratto specifico o effettuare modifiche, l'ID univoco semplifica l'individuazione del contratto desiderato, migliorando l'efficienza delle operazioni interne.
+
+3. **Richieste da elaborare**: Questo campo tiene traccia del numero di richieste provenienti da JotForm che devono essere elaborate. Tenere il conteggio delle richieste pendenti è di fondamentale importanza per garantire che nessuna richiesta venga trascurata o dimenticata. Monitorare il carico di lavoro in arrivo ti aiuta inoltre a organizzare le risorse necessarie per gestire le richieste in modo tempestivo ed efficiente.
+
+4. **Iscrizioni attive**: Questo campo conta il numero di membri attualmente iscritti all'associazione. Mantenere un monitoraggio costante delle iscrizioni attive è fondamentale per valutare la crescita dell'associazione nel tempo e per valutare l'efficacia delle strategie di marketing e fidelizzazione implementate.
+
+5. **Iscrizioni scadute**: Questo campo tiene conto del numero di membri la cui iscrizione è scaduta. Monitorare il numero di iscrizioni scadute può essere utile per identificare i membri che potrebbero aver bisogno di un promemoria o di strategie mirate per rinnovare la loro iscrizione. L'identificazione tempestiva dei membri con iscrizioni scadute consente di ridurre la perdita potenziale di adesioni e di mantenere un rapporto attivo con gli ex membri, al fine di favorire il loro coinvolgimento futuro.
+
+6. **Iscrizioni con errori**: Questo campo tiene traccia del numero di iscrizioni che presentano errori. La presenza di iscrizioni errate può causare problemi operativi e compromettere l'efficienza dell'associazione. Monitorare attentamente le iscrizioni con errori consente di identificare rapidamente eventuali problemi e di risolverli tempestivamente. Ciò contribuisce a mantenere l'integrità dei dati dei membri e a garantire una gestione senza intoppi delle informazioni associate.
+
+7. **Totale iscrizioni**: Questo campo rappresenta il numero complessivo di iscrizioni, includendo sia quelle attive che quelle scadute. Fornisce una panoramica completa del numero totale di membri che si sono iscritti all'associazione nel corso del tempo. Rappresenta un indicatore fondamentale per valutare l'andamento complessivo e la crescita dell'associazione nel corso del tempo.
+
+8. **Errori nel database dei contratti:**: Questo campo indica il numero di errori presenti nel database dei contratti. Monitorare gli errori nel database dei contratti ti consente di individuare potenziali problematiche o incongruenze nel sistema. Risolvere tempestivamente questi errori garantisce l'integrità e l'accuratezza delle informazioni contrattuali, facilitando così la gestione e la consultazione dei dati in futuro.
+
+9. **Totale contratti in scadenza**: Questo campo tiene conto del numero totale di contratti di locazione che stanno per scadere. Questa informazione ti consente di avere una visione chiara dei contratti che richiedono attenzione imminente. Con questo conteggio, puoi pianificare in anticipo le comunicazioni con i membri interessati al rinnovo dei contratti e assicurarti che le procedure di rinnovo siano gestite in modo tempestivo ed efficace. Tenere sotto controllo i contratti in scadenza ti aiuta a mantenere una gestione efficiente e organizzata degli affari dell'associazione.
+
+## Grazie!
+
+Grazie per aver scelto ConcordatoFacile per semplificare la gestione dei contratti di locazione a canone concordato. Spero che questa guida ti abbia fornito una panoramica completa e che tu abbia acquisito una migliore comprensione di come utilizzare efficacemente questa soluzione. Non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com) per qualsiasi dubbio o problema che potresti incontrare lungo il percorso.
+
+Buon lavoro!
