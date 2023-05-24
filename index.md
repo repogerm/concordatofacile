@@ -45,7 +45,7 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Ricezione della richiesta
 
-ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo tramite e-mail o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente una vasta gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
+ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo tramite e-mail o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente un alto volume di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
@@ -224,5 +224,9 @@ Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente a
 ## Grazie!
 
 Grazie per aver scelto ConcordatoFacile per semplificare la gestione dei contratti di locazione a canone concordato. Spero che questa guida ti abbia fornito una panoramica completa e che tu abbia acquisito una migliore comprensione di come utilizzare efficacemente questa soluzione. Non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com) per qualsiasi dubbio o problema che potresti incontrare lungo il percorso.
+
+Inoltre, ti invito a visitare la pagina di ConcordatoFacile su Canny.io, dove avrai la possibilità di fornire commenti, suggerimenti e richiedere nuove funzionalità. Puoi accedere alla pagina tramite il seguente link: https://concordatofacile.canny.io/.
+
+Sono sempre interessato a conoscere le tue opinioni e a migliorare il servizio per soddisfare al meglio le tue esigenze. 
 
 Buon lavoro!
