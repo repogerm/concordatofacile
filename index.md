@@ -12,23 +12,23 @@ Prima di iniziare, è utile familiarizzare con alcune delle componenti chiave ut
 
 ### Google Drive
 
-Google Drive è un servizio di archiviazione cloud fornito da Google. Questo servizio offre un ambiente sicuro e affidabile per l'archiviazione di dati e documenti. In ConcordatoFacile, Google Drive funge da deposito centrale per tutti i file e i documenti relativi ai contratti di locazione. Questo include i moduli compilati, i contratti generati e qualsiasi altro documento correlato. L'uso di Google Drive garantisce che i documenti siano sempre disponibili, accessibili da qualsiasi dispositivo connesso a Internet e protetti da perdite di dati.
+Google Drive fornisce un servizio di archiviazione cloud offerto da Google. Questo servizio ti permette di conservare i tuoi dati e documenti in un ambiente sicuro e affidabile. In ConcordatoFacile, Google Drive funge da deposito centrale per tutti i file e i documenti relativi ai contratti di locazione. Questo comprende i moduli compilati, i contratti generati e qualsiasi altro documento pertinente. L'utilizzo di Google Drive assicura che i documenti siano sempre disponibili, accessibili da qualsiasi dispositivo connesso a Internet e protetti da eventuali perdite di dati.
 
 ### Google Sheets
 
-Google Sheets è un'applicazione per fogli di calcolo basata su cloud, anch'essa fornita da Google. Questa applicazione offre funzionalità simili a quelle di Microsoft Excel, ma si differenzia da quest'ultima per la possibilità di accedere e modificare i dati da qualsiasi dispositivo con una connessione Internet e per il suo efficiente sistema di collaborazione in tempo reale. In ConcordatoFacile, Google Sheets è utilizzato per gestire, analizzare ed elaborare i dati raccolti tramite JotForm. Inoltre, Google Sheets funge da interfaccia per l'interazione con altre componenti del sistema, come DocVariables e YAMM.
+Google Sheets è un'applicazione basata su cloud per fogli di calcolo fornita da Google. A differenza di Microsoft Excel, questa applicazione consente di accedere e modificare i dati da qualsiasi dispositivo con una connessione Internet. In ConcordatoFacile, Google Sheets viene utilizzato per gestire, analizzare ed elaborare i dati raccolti tramite JotForm. Inoltre, Google Sheets funge da interfaccia per interagire con altre componenti del sistema, come DocVariables e YAMM.
 
 ### JotForm
 
-JotForm è uno strumento online che permette di creare moduli personalizzati. Questo strumento offre un'ampia gamma di opzioni di personalizzazione, rendendolo adatto a una varietà di applicazioni. In ConcordatoFacile, JotForm è utilizzato per raccogliere le informazioni necessarie per la creazione del contratto di locazione. Queste informazioni vengono raccolte tramite un modulo online che può essere compilato dai proprietari di immobili, dagli inquilini o dalle agenzie immobiliari. Una volta compilato, il modulo viene inviato a Google Sheets per l'elaborazione.
+JotForm è uno strumento online che consente di creare moduli personalizzati. Questo strumento offre una vasta gamma di opzioni di personalizzazione, rendendolo adatto a diverse applicazioni. Nel contesto di ConcordatoFacile, JotForm viene utilizzato per raccogliere le informazioni necessarie alla creazione del contratto di locazione. Queste informazioni vengono raccolte attraverso un modulo online, che può essere compilato dai proprietari di immobili, dagli inquilini o dalle agenzie immobiliari. Una volta compilato, il modulo viene inviato a Google Sheets per essere elaborato.
 
 ### DocVariables
 
-DocVariables è uno strumento per la generazione automatica di documenti. Questo strumento è progettato per semplificare il processo di creazione di documenti personalizzati, eliminando la necessità di copiare e incollare manualmente le informazioni da una fonte all'altra. In ConcordatoFacile, DocVariables utilizza i dati raccolti tramite JotForm e gestiti in Google Sheets per generare automaticamente un documento contenente il contratto di locazione completo. Questo documento è poi pronto per essere condiviso con le parti coinvolte nel contratto di locazione.
+DocVariables è uno strumento che consente la generazione automatica di documenti. È stato progettato per semplificare il processo di creazione di documenti personalizzati, eliminando la necessità di copiare e incollare manualmente le informazioni da una fonte all'altra. Nel contesto di ConcordatoFacile, DocVariables utilizza i dati raccolti tramite JotForm e gestiti in Google Sheets per generare automaticamente un documento completo che include il contratto di locazione. Questo documento è pronto per essere condiviso con tutte le parti coinvolte nel contratto di locazione.
 
 ### Yet Another Mail Merge (YAMM)
 
-Yet Another Mail Merge, o YAMM, è uno strumento per l'invio di email personalizzate in modo automatizzato. Questo strumento è particolarmente utile quando si devono inviare email a molte persone contemporaneamente, ma si desidera personalizzare il contenuto per ciascun destinatario. In ConcordatoFacile, YAMM utilizza i dati gestiti in Google Sheets per inviare i contratti di locazione via email. Questo garantisce una comunicazione tempestiva e professionale con le parti coinvolte.
+Yet Another Mail Merge, o YAMM, è uno strumento che consente di inviare email personalizzate in modo automatizzato. Questo strumento risulta particolarmente utile quando si ha la necessità di inviare email a un gran numero di destinatari contemporaneamente, ma si desidera comunque personalizzare il contenuto per ciascun ricevente. Nel contesto di ConcordatoFacile, YAMM viene impiegato per utilizzare i dati gestiti in Google Sheets al fine di inviare i contratti di locazione tramite email. Questo approccio garantisce una comunicazione rapida e professionale con tutte le parti coinvolte.
 
 Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile, possiamo procedere con la guida.
 
@@ -122,7 +122,7 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 |:--:|
 | **Processo di registrazione di un nuovo membro** |
 
-Come puoi notare, nelle colonne colorate in giallo, utilizzate per evidenziare possibili problematiche, è presente un errore evidenziato sulla riga relativa al nuovo iscritto: non esistono contratti collegati a questo membro. Tuttavia, non c'è motivo di preoccuparsi, poiché procederemo a breve con la generazione e l'archiviazione del contratto di locazione a canone concordato per questo utente. Una volta completata questa operazione, l'avviso di errore scomparirà.
+Nelle colonne gialle, che evidenziano possibili problematiche, noterai un errore sulla riga del nuovo iscritto che indica l'assenza di un contratto collegato a questo membro. Non c'è bisogno di preoccuparsi: nei passaggi successivi, completeremo la richiesta di questo utente generando e archiviando il contratto di locazione a canone concordato. Una volta completate queste operazioni, l'avviso di errore scomparirà.
 
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
@@ -145,17 +145,19 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 |:--:|
 | **Correzione degli errori individuati ed esecuzione dei calcoli necessari per compilare l'asseverazione e l'allegato H** |
 
-Ottimo lavoro finora! Ora che abbiamo compiuto tutti questi passaggi, potresti chiederti se sia il momento di segnare "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non proprio! Ci sono ancora alcuni passaggi cruciali da completare prima di poter considerare conclusa l'intera procedura.
+Ora che abbiamo compiuto tutti questi passaggi, potresti pensare sia il momento di scrivere "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non ancora! Rimangono alcuni passaggi fondamentali prima di considerare l'intera procedura conclusa.
 
-Nei passaggi successivi, ti guiderò attraverso il processo di generazione automatica dei documenti necessari per finalizzare la richiesta. Imparerai come archiviarli correttamente e come documentare quest'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti permetterà inoltre di spedire la documentazione in maniera rapida alle parti interessate.
+Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come annotare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti consentirà di inviare la documentazione alle parti interessate in modo rapido ed efficiente.
 
 ## Generazione dei documenti
 
-Una volta che avrai cliccato su "DocMerge", ti troverai di fronte a un documento simile a questo:
+Dopo aver cliccato su "DocMerge", vedrai un documento simile a questo:
 
-[screenshot che mostra il documento che si trova di fronte all'utente]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.24-12_51_11.png) |
+|:--:|
+| **Screenshot del template** |
 
-Per procedere con la generazione dei documenti, segui i passaggi mostrati nel video sottostante. DocVariables utilizzerà i dati contenuti in Google Sheets per generare i documenti, basandosi sui dati elaborati dal sistema e da te revisionati.
+Per generare i documenti, segui i passaggi mostrati nel video sottostante. DocVariables utilizzerà i dati contenuti in Google Sheets per generare i documenti, basandosi sui dati elaborati dal sistema e da te revisionati.
 
 > ⚠️ Segui attentamente questi passaggi per generare i documenti utilizzando DocVariables.
 >
@@ -165,4 +167,6 @@ Per procedere con la generazione dei documenti, segui i passaggi mostrati nel vi
 > 4. Fai clic su "Run Now" per avviare il processo di trasferimento dei dati da Google Sheets.
 > 5. Clicca sul link blu a destra di "Export Folder" per accedere alla cartella in cui è stata archiviata la documentazione generata automaticamente.
 
-[video]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-14_51_08.gif) |
+|:--:|
+| **Esecuzione di DocMerge** |
