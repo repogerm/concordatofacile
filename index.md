@@ -45,32 +45,32 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Ricezione della richiesta
 
-ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Tale modulo può essere trasmesso via e-mail oppure può essere integrato direttamente sul sito web della tua associazione. Questo ti permetterà di gestire efficacemente un'ampia gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
+ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo tramite e-mail o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente una vasta gamma di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
 | **Panoramica del modulo JotForm** |
 
-Quando un utente invia una richiesta tramite JotForm, le informazioni fornite vengono automaticamente trasferite e registrate in "Archivio richieste". Ogni invio di un modulo JotForm rappresenta una singola riga in questo foglio, con i dati forniti dagli utenti ordinatamente organizzati in colonne distinte.
+Quando un utente invia una richiesta tramite JotForm, il sistema trasferisce automaticamente le informazioni fornite e le registra in "Archivio richieste". Ogni invio di un modulo JotForm costituisce una singola riga all'interno di questo foglio, con i dati forniti dagli utenti accuratamente organizzati in colonne distinte.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) | 
 |:--:|
 | **Panoramica del foglio "Archivio richieste"** |
 
-Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui prestare attenzione:
+Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui è fondamentale prestare attenzione:
 
-- "Completata?" (Colonna A): Se immetti "sì" in questa cella, il modulo JotForm associato viene ritenuto gestito e quindi rimosso dalla lista delle attività in sospeso.
-- "Note" (Colonna B): Questa colonna è designata per contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il posto perfetto per registrare dettagli aggiuntivi o lasciare dei promemoria.
+- "Completata?" (Colonna A): Se inserisci "sì" in questa cella, il modulo JotForm associato viene considerato come gestito e, di conseguenza, rimosso dalla lista delle attività in sospeso.
+- "Note" (Colonna B): Questa colonna è destinata a contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il luogo ideale per registrare dettagli aggiuntivi o annotare promemoria.
 
-Gestire attentamente la colonna "Completata?" è fondamentale per mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai finito di gestire un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Questo indica che la richiesta è stata completamente trattata e la rimuove dalla lista delle attività pendenti. Se, invece, un modulo richiede ancora attenzione, lascia questa cella vuota.
+È fondamentale gestire attentamente la colonna "Completata?" al fine di mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai concluso la gestione di un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Tale azione indicherà che la richiesta è stata completamente trattata e verrà rimossa dalla lista delle attività pendenti. Al contrario, se un modulo richiede ancora attenzione, lascia questa cella vuota.
 
-> 💡 L'aggiornamento dello stato di "Completata?" dovrebbe avvenire solo quando sei assolutamente sicuro che una richiesta sia stata completamente gestita.
+> 💡 Si consiglia di aggiornare lo stato di "Completata?" solo quando si è assolutamente sicuri che una richiesta sia stata completamente gestita.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
 |:--:|
 | **Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente** |
 
-Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli se l'utente ha commesso errori o ha cambiato idea.
+Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli nel caso l'utente abbia commesso degli errori o abbia cambiato idea.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 |:--:|
@@ -78,7 +78,7 @@ Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente,
 
 ### Pronto a procedere?
 
-Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Non è quindi il momento di inserire "sì" nella colonna "A". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
+Fino a questo punto, abbiamo esaminato come ricevere una richiesta e come gestire le informazioni iniziali nel foglio "Archivio richieste". Tuttavia, ci sono ancora diversi passaggi da completare prima che una richiesta possa essere considerata effettivamente "Completata". Continua a leggere per scoprire quali sono i passaggi successivi da seguire per gestire una richiesta in modo veloce e accurato.
 
 ## Elaborazione della richiesta
 
@@ -122,7 +122,7 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 |:--:|
 | **Processo di registrazione di un nuovo membro** |
 
-Come noterai, nelle colonne colorate di giallo, utilizzate per segnalare possibili problematiche, è presente un errore evidenziato sulla riga del nuovo iscritto: non esistono contratti collegati a questo membro. Non c'è motivo di preoccuparsi, tra poco procederemo con la generazione e l'archiviazione del contratto di locazione a canone concordato per questo utente. Una volta completata questa operazione, l'avviso di errore scomparirà.
+Come puoi notare, nelle colonne colorate in giallo, utilizzate per evidenziare possibili problematiche, è presente un errore evidenziato sulla riga relativa al nuovo iscritto: non esistono contratti collegati a questo membro. Tuttavia, non c'è motivo di preoccuparsi, poiché procederemo a breve con la generazione e l'archiviazione del contratto di locazione a canone concordato per questo utente. Una volta completata questa operazione, l'avviso di errore scomparirà.
 
 Una volta completata la registrazione del nuovo membro, torna al foglio "Richiesta in Elaborazione" e accertati che il valore di "Totale Errori" sia 0, quindi attiva i calcoli iterativi come illustrato nel video sottostante e attendi che "Sì" compaia nella cella sotto "Procedere con DocMerge?". Al comparire del "Sì", procedi cliccando su "DocMerge".
 
