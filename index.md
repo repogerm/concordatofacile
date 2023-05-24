@@ -149,7 +149,7 @@ Ora che abbiamo compiuto tutti questi passaggi, potresti pensare sia il momento 
 
 Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come annotare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti consentirà di inviare la documentazione alle parti interessate in modo rapido ed efficiente.
 
-## Generazione dei documenti
+## Generazione e archiviazione dei documenti
 
 Dopo aver cliccato su "DocMerge", vedrai un documento simile a questo:
 
