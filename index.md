@@ -147,11 +147,11 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 
 Ora che abbiamo compiuto tutti questi passaggi, potresti pensare sia il momento di scrivere "Sì" nella colonna "Completata?" del foglio "Archivio richieste". Non ancora! Rimangono alcuni passaggi fondamentali prima di considerare l'intera procedura conclusa.
 
-Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come annotare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questo ti consentirà di inviare la documentazione alle parti interessate in modo rapido ed efficiente.
+Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come registrare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questi passaggi non solo semplificano e accelerano l'invio della documentazione alle parti coinvolte, ma implementano anche un efficiente sistema di monitoraggio per tutte le scadenze dei contratti di locazione, consentendoti di notificare i membri della tua associazione in modo tempestivo.
 
 ## Generazione e archiviazione dei documenti
 
-Dopo aver cliccato su "DocMerge", vedrai un documento simile a questo:
+Dopo aver cliccato su "DocMerge", vedrai un documento analogo a quello mostrato nello screenshot sottostante.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.24-12_51_11.png) |
 |:--:|
@@ -169,4 +169,24 @@ Per generare i documenti, segui i passaggi mostrati nel video sottostante. DocVa
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-14_51_08.gif) |
 |:--:|
-| **Esecuzione di DocMerge** |
+| **Panoramica del template ed esecuzione di DocMerge** |
+
+Apri la cartella dove è archiviata la documentazione generata automaticamente e ordina i file dal più recente al più vecchio per posizionare in cima alla lista i documenti appena generati. Identifica e apri questi nuovi documenti, poi revisiona il loro contenuto. Se necessario, puoi ancora effettuare modifiche: il file è in un formato editabile.
+
+Nell'esempio specifico, la documentazione è archiviata in una cartella denominata 'output' e tra i documenti generati da DocVariables, oltre al contratto di locazione, all'asseverazione e all'allegato H, noterai anche la presenza di una ricevuta e del modulo di iscrizione all'associazione.
+
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_07_36.gif) |
+|:--:|
+| **Panoramica della documentazione appena generata** |
+
+Bene, i documenti sono stati generati correttamente. È il momento di tornare a Google Sheets per registrare l'operazione appena effettuata. Prima di procedere, come già indicato, disattivare i calcoli iterativi se sono ancora attivi è un passaggio obbligatorio. Conclusa questa operazione, accedere al foglio di calcolo "Archivio contratti - YAMM" e avviare il processo di registrazione di un nuovo contratto, seguendo le istruzioni presenti nel video seguente.
+
+> ⚠️ Ecco come registrare l'ultimo contratto generato nel database dei contratti:
+>
+> 1. Clicca su "Estensioni" nella barra del menu.
+> 2. Seleziona "Macro" dal menu a discesa che appare.
+> 3. Quando si apre la finestra delle macro, scegli l'opzione "Nuovo contratto".
+
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_14_24.gif) |
+|:--:|
+| **Registrazione ultimo contratto in "Archivio contratti - YAMM** |
