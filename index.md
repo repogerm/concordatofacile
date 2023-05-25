@@ -45,7 +45,7 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Ricezione della richiesta
 
-ConcordatoFacile utilizza un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo tramite e-mail o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente un alto volume di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico "Archivio richieste".
+ConcordatoFacile usa un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo via email o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente un alto volume di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico “Archivio richieste”.
 
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
 |:--:|
@@ -195,13 +195,15 @@ spiegare foglio contratti in scadenza
 
 Bene! Abbiamo gestito con successo la richiesta in tutti i suoi aspetti: abbiamo esaminato il contenuto inviato tramite JotForm, eseguito i calcoli necessari su Google Sheets, creato i documenti con DocVariables, e inviato tramite email la documentazione completa all'utente che ha richiesto assistenza per il contratto di locazione a canone concordato. 
 
-Prima di contrassegnare la richiesta come completata, controlliamo le note indicate nella colonna B del foglio "Archivio Richieste". Se, ad esempio, le note indicano che l'utente non ha ancora effettuato il pagamento o ci sono altri motivi che impediscono di considerare la richiesta come completata, eviteremo di scrivere "sì" nella colonna A. Se tutto va per il verso giusto e le note non evidenziano alcun problema, procederemo a contrassegnare la richiesta come completata scrivendo "sì" nella colonna A.
+Prima di contrassegnare la richiesta come completata, controlliamo le note indicate nella colonna B del foglio "Archivio Richieste". Se, ad esempio, le note indicano che l'utente non ha ancora effettuato il pagamento o ci sono altri motivi che impediscono di considerare la richiesta come completata, eviteremo di scrivere "sì" nella colonna A. Se tutto va per il verso giusto e le note non evidenziano alcun problema, procederemo a contrassegnare la richiesta come completata scrivendo "sì".
 
 ## Pannello di controllo
 
 Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente aggiornata dei dati relativi alla tua associazione.
 
-[panoramica del "pannello di controllo"]
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.25-11_29_54.png) |
+|:--:|
+| **Panoramica del "Pannello di controllo"** |
 
 1. **Generatore ID membri**: Questo campo è responsabile della generazione automatica di un ID univoco per ogni nuovo membro che si iscrive alla tua associazione. L'ID è composto dal prefisso "MEM" seguito da un numero di sei cifre. Questo sistema di ID univoci semplifica il tracciamento e la gestione dei membri, garantendo che ognuno abbia un'identificazione unica nel sistema. Puoi utilizzare questi ID per individuare i membri specifici, seguire il loro coinvolgimento nell'associazione e monitorare le loro attività.
 
@@ -213,7 +215,7 @@ Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente a
 
 5. **Iscrizioni scadute**: Questo campo tiene conto del numero di membri la cui iscrizione è scaduta. Monitorare il numero di iscrizioni scadute può essere utile per identificare i membri che potrebbero aver bisogno di un promemoria o di strategie mirate per rinnovare la loro iscrizione. L'identificazione tempestiva dei membri con iscrizioni scadute consente di ridurre la perdita potenziale di adesioni e di mantenere un rapporto attivo con gli ex membri, al fine di favorire il loro coinvolgimento futuro.
 
-6. **Iscrizioni con errori**: Questo campo tiene traccia del numero di iscrizioni che presentano errori. La presenza di iscrizioni errate può causare problemi operativi e compromettere l'efficienza dell'associazione. Monitorare attentamente le iscrizioni con errori consente di identificare rapidamente eventuali problemi e di risolverli tempestivamente. Ciò contribuisce a mantenere l'integrità dei dati dei membri e a garantire una gestione senza intoppi delle informazioni associate.
+6. **Errori nel database delle iscrizioni**: Questo campo tiene traccia del numero di iscrizioni che presentano errori. La presenza di iscrizioni errate può causare problemi operativi e compromettere l'efficienza dell'associazione. Monitorare attentamente le iscrizioni con errori consente di identificare rapidamente eventuali problemi e di risolverli tempestivamente. Ciò contribuisce a mantenere l'integrità dei dati dei membri e a garantire una gestione senza intoppi delle informazioni associate.
 
 7. **Totale iscrizioni**: Questo campo rappresenta il numero complessivo di iscrizioni, includendo sia quelle attive che quelle scadute. Fornisce una panoramica completa del numero totale di membri che si sono iscritti all'associazione nel corso del tempo. Rappresenta un indicatore fondamentale per valutare l'andamento complessivo e la crescita dell'associazione nel corso del tempo.
 
@@ -225,7 +227,7 @@ Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente a
 
 Grazie per aver scelto ConcordatoFacile per semplificare la gestione dei contratti di locazione a canone concordato. Spero che questa guida ti abbia fornito una panoramica completa e che tu abbia acquisito una migliore comprensione di come utilizzare efficacemente questa soluzione. Non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com) per qualsiasi dubbio o problema che potresti incontrare lungo il percorso.
 
-Inoltre, ti invito a visitare la pagina di ConcordatoFacile su Canny.io, dove avrai la possibilità di fornire commenti, suggerimenti e richiedere nuove funzionalità. Puoi accedere alla pagina tramite il seguente link: https://concordatofacile.canny.io/.
+Inoltre, ti invito a visitare la pagina di ConcordatoFacile su Canny.io, dove avrai la possibilità di fornire commenti, suggerimenti e richiedere nuove funzionalità. Puoi accedere alla pagina tramite il seguente link: [https://concordatofacile.canny.io/](https://concordatofacile.canny.io/).
 
 Sono sempre interessato a conoscere le tue opinioni e a migliorare il servizio per soddisfare al meglio le tue esigenze. 
 
