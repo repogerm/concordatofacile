@@ -62,7 +62,7 @@ Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cu
 - "Completata?" (Colonna A): Se inserisci "sì" in questa cella, il modulo JotForm associato viene considerato come gestito e, di conseguenza, rimosso dalla lista delle attività in sospeso.
 - "Note" (Colonna B): Questa colonna è destinata a contenere eventuali osservazioni o commenti pertinenti al modulo JotForm. È il luogo ideale per registrare dettagli aggiuntivi o annotare promemoria.
 
-È fondamentale gestire attentamente la colonna "Completata?" al fine di mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai concluso la gestione di un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Tale azione indicherà che la richiesta è stata completamente trattata e verrà rimossa dalla lista delle attività pendenti. Al contrario, se un modulo richiede ancora attenzione, lascia questa cella vuota.
+È fondamentale gestire attentamente la colonna "Completata?" al fine di mantenere un flusso di lavoro efficiente e ben organizzato. Quando hai concluso la gestione di un modulo e non sono necessarie ulteriori azioni, scrivi "sì" in questa cella. Tale azione indicherà che la richiesta è stata completamente trattata e la rimuoverà dalla lista delle attività pendenti. Al contrario, se un modulo richiede ancora attenzione, lascia questa cella vuota.
 
 > 💡 Si consiglia di aggiornare lo stato di "Completata?" solo quando si è assolutamente sicuri che una richiesta sia stata completamente gestita.
 
