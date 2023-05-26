@@ -200,7 +200,7 @@ Bene, i documenti sono stati generati correttamente. È il momento di tornare a 
 | 3. Quando si apre la finestra delle macro, scegli l'opzione "Nuovo contratto". |
 | ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_14_24.gif) |
 
-Il foglio di calcolo "Archivio Contratti - YAMM" è stato pensato per offrire un solido supporto nella gestione dei contratti di locazione della tua associazione. Oltre a conservare ordinatamente le informazioni contrattuali, consente anche di semplificare e rendere più efficiente la comunicazione con i membri iscritti, tramite un sistema automatizzato.
+Il foglio di calcolo "Archivio Contratti - YAMM" è stato pensato per offrire un solido supporto nell'archiviazione dei contratti di locazione della tua associazione. Oltre a conservare ordinatamente le informazioni contrattuali, consente anche di semplificare e rendere più efficiente la comunicazione con i membri iscritti, tramite un sistema automatizzato.
 
 È composto dalle seguenti colonne:
 
@@ -212,15 +212,39 @@ Il foglio di calcolo "Archivio Contratti - YAMM" è stato pensato per offrire un
 
 4. **Data Decorrenza e Data Scadenza**: Queste colonne indicano rispettivamente la data di decorrenza e la data di scadenza del contratto di locazione.
 
-5. **Avviso di Scadenza Inviato**: Questa colonna indica se è stato inviato un avviso di scadenza del contratto di locazione all'associato. L'automazione offerta da YAMM può gestire questo processo, inviando email personalizzate a ciascun membro.
+5. **Avviso di Scadenza Inviato**: In questa colonna, devi indicare se hai inviato un avviso di scadenza del contratto di locazione all'associato. È necessario specificare "Si" se hai inviato l'avviso, oppure "No" se non lo hai ancora inviato. Assicurati di inserire la risposta corretta per ogni contratto. Questa informazione è fondamentale per tenere traccia degli avvisi inviati e assicurarsi che i membri ricevano le comunicazioni necessarie.
 
-6. **Email**: Questa colonna contiene l'indirizzo email del membro. Questo indirizzo viene utilizzato per inviare documentazione e avvisi di scadenza.
+6. **Email**: Questa colonna contiene l'indirizzo email del membro. Questo indirizzo viene utilizzato per inviare la documentazione e gli avvisi di scadenza.
 
-7. **Attachment**: Questa colonna contiene i link alla documentazione che verrà allegata all'email inviata tramite YAMM. Questo permette di inviare documenti importanti in modo efficiente e sicuro.
+7. **Attachment**: Questa colonna contiene il contratto di locazione e tutta la documentazione che verrà allegata all'email.
 
-8. **Merge status**: Questa colonna indica lo stato di invio dei contratti di locazione tramite YAMM. Questo campo è utile per monitorare il processo di invio delle email e assicurarsi che tutti i membri ricevano quello che devono ricevere..
+8. **Merge status**: La colonna "Merge Status" nel foglio di calcolo è molto importante perché indica lo stato di invio delle email. Quando YAMM invia un'email, aggiorna questa colonna con informazioni sullo stato dell'email, come "sent" (inviata), "opened" (aperta), "clicked" (cliccata) o "responded" (risposta ricevuta). Questo ti permette di monitorare facilmente l'efficacia delle tue email e di vedere chi ha aperto o risposto alle tue comunicazioni.
 
-9. **⚠️ Avvisi**: Questa colonna utilizza una formula per verificare che i dati essenziali (ID Membro, Email, Avviso di Scadenza Inviato) siano presenti. Se mancano, restituisce un avviso di errore, permettendo di correggere eventuali problemi.
+9. **⚠️ Avvisi**: La colonna "⚠️ Avvisi" è un ulteriore strumento di controllo che verifica la presenza di tutti i dati essenziali nel foglio di calcolo. Se mancano dati importanti, come l'ID Membro, l'Email o l'Avviso di Scadenza Inviato, questa colonna restituirà un messaggio di errore, permettendoti di identificare e correggere rapidamente eventuali problemi.
+
+### Configurazione di Gmail per l'uso con YAMM
+
+Per utilizzare efficacemente Yet Another Mail Merge (YAMM), è fondamentale capire come configurare correttamente Gmail. Di seguito ti illustro i passaggi in modo più dettagliato.
+
+Prima di tutto, dovrai creare una bozza di email all'interno di Gmail. Questa bozza fungerà da modello per tutte le email che prevedi di inviare tramite YAMM. Quindi, è importante che tu includa tutte le informazioni necessarie che desideri condividere con i tuoi destinatari. Puoi personalizzare il modello come preferisci, includendo testo, immagini, link e altro ancora.
+
+Una funzionalità chiave di YAMM è la sua capacità di utilizzare dei 'marcatori' che permettono di personalizzare le email in base ai destinatari. I marcatori sono essenzialmente riferimenti ai titoli delle colonne nel tuo foglio di calcolo Google Sheets. Questi titoli di colonna rappresentano vari tipi di informazioni sui tuoi destinatari, come il loro nome, indirizzo email e qualsiasi altro dato che hai raccolto.
+
+Per inserire un marcatore nel tuo modello di email, inseriscilo tra doppie parentesi graffe, come {{Nome}} o {{Email}}. Quando YAMM invia le tue email, sostituirà automaticamente questi marcatori con le informazioni corrispondenti dal foglio di calcolo. Ad esempio, se hai un marcatore {{Nome}}, YAMM lo sostituirà con il nome specifico del destinatario per ciascuna email che invii. Questo ti permette di inviare email personalizzate su larga scala, risparmiando tempo e fatica.
+
+Ricorda, tuttavia, che per far funzionare correttamente YAMM, dovrai garantire che i titoli delle tue colonne nel foglio di calcolo corrispondano esattamente ai marcatori che hai inserito nel tuo modello di email. Qualsiasi discrepanza potrebbe causare errori o mancata corrispondenza dei dati durante l'invio delle email.
+
+| ⚠️ Per avviare l'invio di email con YAMM, segui questi passaggi: |
+|:--|
+| 1. Clicca su "Add-ons". |
+| 2. Seleziona "Yet Another Mail Merge". |
+| 3. Clicca su "Start mail merge". |
+| 4. Seleziona la bozza di email da utilizzare. |
+| 5. Clicca su "AddAlias, filters, personalized attachments...". |
+| 6. Seleziona "Attach files in column H to emails sent." |
+| 7. Clicca su "Back". |
+| 8. Clicca su "Send emails" per avviare l'invio delle email. |
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-bpconcjcammlapcogcnnelfmaeghhagj-2023.05.26-22_47_42-_online-video-cutter.com_-_1_.gif) |
 
 ## Contratti in scadenza
 
