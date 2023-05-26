@@ -44,7 +44,7 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 2. [Richiesta in elaborazione](#richiesta-in-elaborazione)
 3. [Gestione anagrafiche](#gestione-anagrafiche)
 4. [DocMerge](#docmerge)
-5. [Archivio contratti - YAMM](#archivio-contatti---yamm)
+5. [Archivio contratti - YAMM](#archivio-contratti---yamm)
 6. [Contratti in scadenza](#contratti-in-scadenza)
 7. [Pannello di controllo](#pannello-di-controllo)
 
