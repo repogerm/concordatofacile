@@ -259,14 +259,13 @@ Una funzionalità chiave di YAMM è la sua capacità di utilizzare dei 'marcator
 Per inserire un marcatore nel tuo modello di email, inseriscilo tra doppie parentesi graffe, come {{Nome}} o {{Email}}. Quando YAMM invia le tue email, sostituirà automaticamente questi marcatori con le informazioni corrispondenti dal foglio di calcolo. Ad esempio, se hai un marcatore {{Nome}}, YAMM lo sostituirà con il nome specifico del destinatario per ciascuna email che invii. Questo ti permette di inviare email personalizzate su larga scala, risparmiando tempo e fatica.
 
 Ricorda, tuttavia, che per far funzionare correttamente YAMM, dovrai garantire che i titoli delle tue colonne nel foglio di calcolo corrispondano esattamente ai marcatori che hai inserito nel tuo modello di email. Qualsiasi discrepanza potrebbe causare errori o mancata corrispondenza dei dati durante l'invio delle email.
-
 | ⚠️ Per avviare l'invio di email con YAMM, segui questi passaggi: |
 |:--|
-| 1. Clicca su "Add-ons". |
-| 2. Seleziona "Yet Another Mail Merge". |
+| 1. Clicca su "Estensioni". |
+| 2. Clicca su "Yet Another Mail Merge". |
 | 3. Clicca su "Start mail merge". |
 | 4. Seleziona la bozza di email da utilizzare. |
-| 5. Clicca su "AddAlias, filters, personalized attachments...". |
+| 5. Clicca su "Add Alias, filters, personalized attachments...". |
 | 6. Seleziona "Attach files in column H to emails sent." |
 | 7. Clicca su "Back". |
 | 8. Clicca su "Send emails" per avviare l'invio delle email. |
