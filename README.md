@@ -209,7 +209,7 @@ Nelle prossime fasi, esplorerai il processo di generazione automatica dei docume
 | 3. Clicca su "DocMerge" per avviare la funzione DocMerge. |
 | 4. Fai clic su "Run Now" per avviare il processo di trasferimento dei dati da Google Sheets. |
 | 5. Clicca sul link blu a destra di "Export Folder" per accedere alla cartella in cui è stata archiviata la documentazione generata automaticamente. |
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-14_51_08.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screencast-docs.google.com-2023.05.24-14_51_08.gif) |
 
 | Apri la cartella dove è archiviata la documentazione generata automaticamente e ordina i file dal più recente al più vecchio per posizionare in cima alla lista i documenti appena generati. Identifica e apri questi nuovi documenti, poi revisiona il loro contenuto. Se necessario, puoi ancora effettuare modifiche: il file è in un formato editabile. Nell'esempio specifico, la documentazione è archiviata in una cartella denominata 'output' e tra i documenti generati da DocVariables, oltre al contratto di locazione, all'asseverazione e all'allegato H, noterai anche la presenza di una ricevuta e del modulo di iscrizione all'associazione |
 |:--|
