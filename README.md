@@ -40,13 +40,18 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 
 ## Indice
 
-1. [Archivio richieste](#archivio-richieste)
-2. [Richiesta in elaborazione](#richiesta-in-elaborazione)
-3. [Gestione anagrafiche](#gestione-anagrafiche)
-4. [DocMerge](#docmerge)
-5. [Archivio contratti - YAMM](#archivio-contratti---yamm)
-6. [Contratti in scadenza](#contratti-in-scadenza)
-7. [Pannello di controllo](#pannello-di-controllo)
+1. [Diagramma di flusso](#diagramma-di-flusso)
+2. [Archivio richieste](#archivio-richieste)
+3. [Richiesta in elaborazione](#richiesta-in-elaborazione)
+4. [Gestione anagrafiche](#gestione-anagrafiche)
+5. [DocMerge](#docmerge)
+6. [Archivio contratti - YAMM](#archivio-contratti---yamm)
+7. [Contratti in scadenza](#contratti-in-scadenza)
+8. [Pannello di controllo](#pannello-di-controllo)
+
+## Diagramma di flusso
+
+La seguente rappresentazione grafica mostra il percorso che una richiesta attraversa dal momento in cui viene ricevuta, fino alla sua completa evasione, delineando i vari passaggi intermedi e le relative procedure automatiche. Ogni elemento del diagramma di flusso sottostante sarà successivamente dettagliato nelle sezioni successive.
 
 ```mermaid
 flowchart TD
