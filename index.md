@@ -146,7 +146,7 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 | 1. Clicca su "Estensioni" nella barra del menu. |
 | 2. Seleziona "Macro" dal menu a discesa che appare. |
 | 3. Nella finestra delle macro, scegli l'opzione "Nuova iscrizione" per avviare la creazione di una nuova iscrizione nel database. Assicurati di inserire i dati richiesti in modo accurato e completo. |
-![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif)
+| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif) |
 
 Nelle colonne gialle, che evidenziano possibili problematiche, noterai un errore sulla riga del nuovo iscritto che indica l'assenza di un contratto collegato a questo membro. Non c'è bisogno di preoccuparsi: nei passaggi successivi genereremo e archivieremo il contratto di locazione a canone concordato mancante. Una volta completate queste operazioni, l'avviso di errore scomparirà.
 
