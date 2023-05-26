@@ -78,13 +78,13 @@ ConcordatoFacile usa un modulo JotForm per raccogliere tutte le informazioni nec
 
 | Panoramica del modulo JotForm |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-57-44%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_20_2023_1-57-44-PM.gif) |
 
 Quando un utente invia una richiesta tramite JotForm, il sistema trasferisce automaticamente le informazioni fornite e le registra in "Archivio richieste". Ogni invio di un modulo JotForm costituisce una singola riga all'interno di questo foglio, con i dati forniti dagli utenti accuratamente organizzati in colonne distinte.
 
 | Panoramica del foglio "Archivio richieste" |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_20_2023_2-05-47%20PM.gif) |
 
 Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cui è fondamentale prestare attenzione:
 
@@ -95,11 +95,11 @@ Nel foglio "Archivio richieste", ci sono due colonne di primaria importanza a cu
 
 | Impostando "sì" sotto la colonna "Completata?" nel foglio 'Archivio richieste', il conteggio di "Richieste da Elaborare" nel foglio "Pannello di Controllo" si aggiorna automaticamente |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_20_2023_2-17-28%20PM.gif) |
 
 | Sebbene i dati nel foglio "Archivio richieste" vengano inseriti automaticamente, hai sempre la possibilità di correggerli o modificarli nel caso l'utente abbia commesso degli errori o abbia cambiato idea. |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_20_2023_1-15-08%20PM.gif) |
 
 ### Pronto a procedere?
 
@@ -111,23 +111,23 @@ Il foglio "Richiesta in Elaborazione" presenta la richiesta meno recente inviata
 
 | Panoramica del foglio "Richiesta in elaborazione" |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_12-54-22%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_12-54-22%20PM.gif) |
 
 | Per quanto riguarda i calcoli: se l'immobile in questione si trova in un comune presente nel database di ConcordatoFacile, i valori minimi e massimi dell'area omogenea cui appartiene saranno identificati automaticamente dal sistema. Nel caso in cui il comune non fosse incluso nel database, riceverai una notifica. |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-10-44%20PM.png) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_1-10-44%20PM.png) |
 
 In tale circostanza, dovrai verificare, consultando gli accordi territoriali pertinenti, la correttezza dei dati forniti dagli utenti. All'occorrenza, potrai apportare modifiche nel foglio "Archivio richieste" come precedentemente indicato. Per individuare rapidamente la richiesta in lavorazione, copia il "Submission ID" dal foglio "Richiesta in Elaborazione" e cercalo nel foglio "Archivio richieste", come illustrato nel seguente video.
 
 | ⚠️ Per cercare una stringa specifica in Google Sheets, utilizza la combinazione di tasti "Ctrl + F" (o "Cmd + F" su Mac). Inserisci la stringa nella casella di ricerca che appare e Sheets evidenzierà automaticamente le corrispondenze trovate nel foglio di lavoro corrente |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-19-08%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_1-19-08%20PM.gif) |
 
 ## Gestione anagrafiche
 
 | Se una richiesta di assistenza perviene da un utente non registrato all'associazione, un messaggio di errore apparirà nel foglio "Richiesta in Elaborazione". |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-29-28%20PM.png) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_1-29-28%20PM.png) |
 
 In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo membro o rinnovare la sua iscrizione. Da qui potrai anche monitorare lo stato di iscrizione di tutti i membri.
 
@@ -170,7 +170,7 @@ In tale evenienza, vai al foglio "Gestione Anagrafiche" per registrare il nuovo 
 | 1. Clicca su "Estensioni" nella barra del menu. |
 | 2. Seleziona "Macro" dal menu a discesa che appare. |
 | 3. Nella finestra delle macro, scegli l'opzione "Nuova iscrizione" per avviare la creazione di una nuova iscrizione nel database. Assicurati di inserire i dati richiesti in modo accurato e completo. |
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_1-38-18%20PM.gif) |
 
 Nelle colonne gialle, che evidenziano possibili problematiche, noterai un errore sulla riga del nuovo iscritto che indica l'assenza di un contratto collegato a questo membro. Non c'è bisogno di preoccuparsi: nei passaggi successivi genereremo e archivieremo il contratto di locazione a canone concordato mancante. Una volta completate queste operazioni, l'avviso di errore scomparirà.
 
@@ -189,7 +189,7 @@ Una volta completata la registrazione del nuovo membro, torna al foglio "Richies
 |   2. Trova l'opzione "Calcolo iterativo" e impostala su "off". |
 |   3. Fai clic su "Salva impostazioni". |
 | ⚠️ **Dopo aver generato i documenti contenenti l'asseverazione e l'allegato H, è indispensabile disattivare i calcoli iterativi per evitare rallentamenti indesiderati al foglio elettronico.** |
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/scrnli_5_23_2023_3-20-31%20PM.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/scrnli_5_23_2023_3-20-31-PM.gif) |
 
 Nelle prossime fasi, esplorerai il processo di generazione automatica dei documenti necessari per completare la richiesta. Scoprirai come archiviarli correttamente e come registrare l'operazione e i file appena generati nel foglio "Archivio Contratti - YAMM". Questi passaggi non solo semplificano e accelerano l'invio della documentazione alle parti coinvolte, ma implementano anche un efficiente sistema di monitoraggio per tutte le scadenze dei contratti di locazione, consentendoti di notificare i membri della tua associazione in modo tempestivo.
 
@@ -197,7 +197,7 @@ Nelle prossime fasi, esplorerai il processo di generazione automatica dei docume
 
 | Dopo aver cliccato su "DocMerge", vedrai un documento analogo a quello mostrato nello screenshot sottostante. |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.24-12_51_11.png) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screenshot-docs.google.com-2023.05.24-12_51_11.png) |
 
 
 | ⚠️ Per generare i documenti, segui i passaggi mostrati nel video sottostante. DocVariables utilizzerà i dati contenuti in Google Sheets per generare i documenti, basandosi sui dati elaborati dal sistema e da te revisionati. |
@@ -211,7 +211,7 @@ Nelle prossime fasi, esplorerai il processo di generazione automatica dei docume
 
 | Apri la cartella dove è archiviata la documentazione generata automaticamente e ordina i file dal più recente al più vecchio per posizionare in cima alla lista i documenti appena generati. Identifica e apri questi nuovi documenti, poi revisiona il loro contenuto. Se necessario, puoi ancora effettuare modifiche: il file è in un formato editabile. Nell'esempio specifico, la documentazione è archiviata in una cartella denominata 'output' e tra i documenti generati da DocVariables, oltre al contratto di locazione, all'asseverazione e all'allegato H, noterai anche la presenza di una ricevuta e del modulo di iscrizione all'associazione |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_07_36.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screencast-docs.google.com-2023.05.24-16_07_36.gif) |
 
 ## Archivio contratti - YAMM
 
@@ -222,7 +222,7 @@ Bene, i documenti sono stati generati correttamente. È il momento di tornare a 
 | 1. Clicca su "Estensioni" nella barra del menu. |
 | 2. Seleziona "Macro" dal menu a discesa che appare. |
 | 3. Quando si apre la finestra delle macro, scegli l'opzione "Nuovo contratto". |
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-docs.google.com-2023.05.24-16_14_24.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screencast-docs.google.com-2023.05.24-16_14_24.gif) |
 
 Il foglio di calcolo "Archivio Contratti - YAMM" è stato pensato per offrire un solido supporto nell'archiviazione dei contratti di locazione della tua associazione. Oltre a conservare ordinatamente le informazioni contrattuali, consente anche di semplificare e rendere più efficiente la comunicazione con i membri iscritti, tramite un sistema automatizzato.
 
@@ -268,13 +268,13 @@ Ricorda, tuttavia, che per far funzionare correttamente YAMM, dovrai garantire c
 | 6. Seleziona "Attach files in column H to emails sent." |
 | 7. Clicca su "Back". |
 | 8. Clicca su "Send emails" per avviare l'invio delle email. |
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screencast-bpconcjcammlapcogcnnelfmaeghhagj-2023.05.26-22_47_42-_online-video-cutter.com_-_1_.gif) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screencast-bpconcjcammlapcogcnnelfmaeghhagj-2023.05.26-22_47_42-_online-video-cutter.com_-_1_.gif) |
 
 ## Contratti in scadenza
 
 | Il foglio "Contratti in scadenza" mostra una lista dei contratti di locazione le cui scadenze sono previste nei prossimi 30 giorni. L'obiettivo del foglio è tenere traccia delle scadenze imminenti e delle relative notifiche inviate ai membri dell'associazione. |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.26-16_46_38.png) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screenshot-docs.google.com-2023.05.26-16_46_38.png) |
 
 È composto dalle seguenti colonne:
 
@@ -294,7 +294,7 @@ Se ci sono cambiamenti o aggiornamenti relativi ai contratti o alle notifiche in
 
 | Il foglio "Pannello di Controllo" fornisce una visione d'insieme costantemente aggiornata dei dati relativi alla tua associazione. |
 |:--|
-| ![Alt Text](https://filedn.eu/llmlYMMbHsXVkfJvhTGDV50/concordatofacile/demo_assets/screenshot-docs.google.com-2023.05.25-11_29_54.png) |
+| ![Alt Text](https://github.com/germabyte/concordatofacile/blob/main/demo_assets/screenshot-docs.google.com-2023.05.25-11_29_54.png) |
 
 È composto dalle seguenti colonne:
 
