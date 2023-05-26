@@ -69,7 +69,7 @@ flowchart TD
     J --> K[Archivio Contratti - YAMM]
     K --> L[Registrazione nuovo contratto]
     L --> M[Invio email con YAMM]
-    M --> N[Contratto completato]
+    M --> N[Richiesta elaborata]
 ```
 
 ## Archivio richieste
