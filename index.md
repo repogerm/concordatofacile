@@ -48,6 +48,25 @@ Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile
 6. [Contratti in scadenza](#contratti-in-scadenza)
 7. [Pannello di controllo](#pannello-di-controllo)
 
+```mermaid
+flowchart TD
+    A[Richiesta da JotForm] -->|Dati trasferiti automaticamente| B[Archivio richieste]
+    B --> C[Richiesta in Elaborazione]
+    C --> D{Errore nei dati?}
+    D -->|Sì| E[Correzione dati in Archivio richieste]
+    E --> F[Calcolo automatico Asseverazione e Allegato H]
+    D -->|No| F
+    F --> G{Nuovo membro?}
+    G -->|Sì| H[Gestione Anagrafiche]
+    H --> I[DocMerge]
+    G -->|No| I
+    I --> J[Generazione documenti]
+    J --> K[Archivio Contratti - YAMM]
+    K --> L[Registrazione nuovo contratto]
+    L --> M[Invio email con YAMM]
+    M --> N[Contratto completato]
+```
+
 ## Archivio richieste
 
 ConcordatoFacile usa un modulo JotForm per raccogliere tutte le informazioni necessarie dagli utenti che richiedono assistenza per i contratti di locazione a canone concordato. Puoi inviare il modulo via email o integrarlo direttamente sul sito web della tua associazione. Questo metodo ti permetterà di gestire in modo efficiente un alto volume di richieste, mantenendo tutte le informazioni ordinate e accessibili in un unico luogo: il foglio elettronico “Archivio richieste”.
