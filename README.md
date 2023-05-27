@@ -10,9 +10,23 @@ Per utilizzare ConcordatoFacile in modo efficace, è consigliabile avere una buo
 
 Se dovessero emergere processi non coperti da questa guida o se avessi domande specifiche riguardanti la tua configurazione di ConcordatoFacile, non esitare a contattarmi all'indirizzo email [germ.riccio@gmail.com](mailto:germ.riccio@gmail.com). Sarà un piacere assisterti affinché tu possa sfruttare al meglio tutte le funzionalità di questo strumento.
 
-Prima di iniziare, è utile familiarizzare con alcune delle componenti chiave utilizzate in ConcordatoFacile. Di seguito è presente un glossario che fornisce una descrizione dettagliata di ciascuna di queste componenti.
+> 💡 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
+
+## Indice
+
+1. [Glossario](#glossario)
+1. [Diagramma di flusso](#diagramma-di-flusso)
+2. [Archivio richieste](#archivio-richieste)
+3. [Richiesta in elaborazione](#richiesta-in-elaborazione)
+4. [Gestione anagrafiche](#gestione-anagrafiche)
+5. [DocMerge](#docmerge)
+6. [Archivio contratti - YAMM](#archivio-contratti---yamm)
+7. [Contratti in scadenza](#contratti-in-scadenza)
+8. [Pannello di controllo](#pannello-di-controllo)
 
 ## Glossario
+
+Prima di iniziare, è utile familiarizzare con alcune delle componenti chiave utilizzate in ConcordatoFacile. Di seguito è presente un glossario che fornisce una descrizione dettagliata di ciascuna di queste componenti.
 
 ### Google Drive
 
@@ -35,19 +49,6 @@ DocVariables è uno strumento che consente la generazione automatica di document
 Yet Another Mail Merge, o YAMM, è uno strumento che consente di inviare email personalizzate in modo automatizzato. Questo strumento risulta particolarmente utile quando si ha la necessità di inviare email a un gran numero di destinatari contemporaneamente, ma si desidera comunque personalizzare il contenuto per ciascun ricevente. Nel contesto di ConcordatoFacile, YAMM viene impiegato per utilizzare i dati gestiti in Google Sheets al fine di inviare i contratti di locazione tramite email. Questo approccio garantisce una comunicazione rapida e professionale con tutte le parti coinvolte.
 
 Ora che hai una comprensione di base delle componenti chiave di ConcordatoFacile, possiamo procedere con la guida.
-
-> 💡 Il successo nella gestione dei contratti di locazione a canone concordato per la tua associazione risiede nella precisione. Assicurati di seguire attentamente le istruzioni presenti in questa guida per garantire il corretto funzionamento del sistema.
-
-## Indice
-
-1. [Diagramma di flusso](#diagramma-di-flusso)
-2. [Archivio richieste](#archivio-richieste)
-3. [Richiesta in elaborazione](#richiesta-in-elaborazione)
-4. [Gestione anagrafiche](#gestione-anagrafiche)
-5. [DocMerge](#docmerge)
-6. [Archivio contratti - YAMM](#archivio-contratti---yamm)
-7. [Contratti in scadenza](#contratti-in-scadenza)
-8. [Pannello di controllo](#pannello-di-controllo)
 
 ## Diagramma di flusso
 
