@@ -1,10 +1,12 @@
 # ConcordatoFacile: Guida introduttiva
 
-Benvenuto alla guida di [ConcordatoFacile](https://concordatofacile.carrd.co), un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata.
+Benvenuto alla guida di ConcordatoFacile, un sistema che semplifica la gestione dei contratti di locazione a canone concordato per le associazioni di categoria. Questa soluzione innovativa si basa su un insieme di componenti IT all'avanguardia che lavorano in sinergia per garantire un'esperienza utente efficiente, sicura e automatizzata.
 
 Attraverso una simulazione completa del processo di gestione di una richiesta di assistenza per un contratto di locazione a canone concordato, questa guida ti mostrerà come funziona ConcordatoFacile e come può rendere il tuo lavoro notevolmente più semplice.
 
 Per utilizzare ConcordatoFacile in modo efficace, è consigliabile avere una buona dimestichezza in materia di contratti di locazione a canone concordato. Questo sistema è stato progettato per semplificare la gestione di tali contratti, ma richiede una conoscenza di base delle pratiche e delle normative legate a questo tipo di locazioni.
+
+Prima di procedere con l'implementazione di ConcordatoFacile, è fondamentale che il sistema venga configurato per rispondere alle specifiche esigenze della tua associazione. Grazie alla sua flessibilità, ConcordatoFacile permette un'ampia gamma di personalizzazioni. Ti invito quindi a visitare [https://concordatofacile.carrd.co](https://concordatofacile.carrd.co) per contattarmi e discutere la configurazione più adatta alle tue necessità.
 
 È importante sottolineare che questa guida fornisce un punto di partenza generale per la tua esperienza con ConcordatoFacile. La flessibilità di questa soluzione nell'adattarsi alle tue specifiche esigenze potrebbe comportare aspetti unici nel tuo caso che non sono esplicitamente descritti qui.
 
