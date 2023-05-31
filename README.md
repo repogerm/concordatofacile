@@ -42,7 +42,7 @@ JotForm è uno strumento online che consente di creare moduli personalizzati. Qu
 
 ### DocVariables
 
-DocVariables è uno strumento che consente la generazione automatica di documenti. È stato progettato per semplificare il processo di creazione di documenti personalizzati, eliminando la necessità di copiare e incollare manualmente le informazioni da una fonte all'altra. Nel contesto di ConcordatoFacile, DocVariables utilizza i dati raccolti tramite JotForm e gestiti in Google Sheets per generare automaticamente un documento completo che include il contratto di locazione. Questo documento è pronto per essere condiviso con tutte le parti coinvolte nel contratto di locazione.
+DocVariables è uno strumento che consente la generazione automatica di documenti. È stato progettato per semplificare il processo di creazione di documenti personalizzati, eliminando la necessità di copiare e incollare manualmente le informazioni da una fonte all'altra. Nel contesto specifico di ConcordatoFacile, DocVariables sfrutta i dati raccolti tramite JotForm e gestiti in Google Sheets per creare un documento completo e personalizzato, che include il contratto di locazione. Questo processo automatizzato assicura che il documento generato sia pronto per essere condiviso immediatamente con tutte le parti coinvolte nel contratto di locazione, rendendo il processo di condivisione rapido ed efficiente.
 
 ### Yet Another Mail Merge (YAMM)
 
