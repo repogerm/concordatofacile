@@ -257,7 +257,7 @@ Per inserire un marcatore nel tuo modello di email, inseriscilo tra doppie paren
 
 Ricorda, tuttavia, che per far funzionare correttamente YAMM, dovrai garantire che i titoli delle tue colonne nel foglio di calcolo corrispondano esattamente ai marcatori che hai inserito nel tuo modello di email. Qualsiasi discrepanza potrebbe causare errori o mancata corrispondenza dei dati durante l'invio delle email.
 
-Nel video che segue, ti illustrerò come inviare in modo massivo una serie di email usando una bozza preimpostata in Gmail.
+Nel video che segue, ti illustrerò come inviare una serie di email usando una bozza preimpostata in Gmail.
 
 | ⚠️ Per avviare l'invio di email con YAMM, segui questi passaggi: |
 |:--|
